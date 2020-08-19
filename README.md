@@ -20,5 +20,5 @@ Introduces concepts of cloud computing to students. Provides a survey of various
 ## Course Format
 Online (Asynchronous).  There are optional synchronous components.  Students are welcome to work at their own pace keeping in mind due dates and late policies.
 
-## [Cloud Management](https://github.com/captainarcher/cloud-management-course/edit/master/homework/README.md)
-## [Project](https://github.com/captainarcher/cloud-management-course/edit/master/project/README.md)
+## [Cloud Management](https://github.com/captainarcher/cloud-management-course/blob/master/homework/README.md)
+## [Project](https://github.com/captainarcher/cloud-management-course/blob/master/project/README.md)
