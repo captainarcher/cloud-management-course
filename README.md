@@ -19,6 +19,6 @@ Introduces concepts of cloud computing to students. Provides a survey of various
     
 ## Course Format
 Online (Asynchronous).  There are optional synchronous components.  Students are welcome to work at their own pace keeping in mind due dates and late policies.
-
+## [Syllabus](https://github.com/captainarcher/cloud-management-course/blog/master/MIS484-6_Cloud_Management_Underhill_Fall2020.docx)
 ## [Homework](https://github.com/captainarcher/cloud-management-course/blob/master/homework/)
 ## [Project](https://github.com/captainarcher/cloud-management-course/blob/master/project/)
