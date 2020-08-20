@@ -22,3 +22,4 @@ Online (Asynchronous).  There are optional synchronous components.  Students are
 ## [Syllabus](https://github.com/captainarcher/cloud-management-course/blob/master/MIS484-6_Cloud_Management_Underhill_Fall2020.docx)
 ## [Homework](https://github.com/captainarcher/cloud-management-course/blob/master/homework/)
 ## [Project](https://github.com/captainarcher/cloud-management-course/blob/master/project/)
+## [Learning Resources](https://github.com/captainarcher/cloud-management-course/blob/master/learningresources/)
