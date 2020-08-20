@@ -24,48 +24,48 @@ You will document your progress in a brief report that meets the requirements be
 
 ###### Please be sure to review the explanatory, "walk-through" videos on my YouTube channel as well as the optional supplemental materials under Module 2 in Cougar Courses.
 
-## Part 1: Basics
-1.	Login to your virtual machine using SSH - you should use the web browser based SSH client in the cloud provider's web UI, unless you already have a local SSH client setup and understand how to configure your SSH keys.
-2.	Output the location of the directory that you are in upon logging in using ```pwd```
-3.	Output your username using ```whoami```
-4.	Output the hostname using ```uname -n```
-5.	Output a list of all users currently logged into your virtual machine using ```who```
+## Part 1: Basics <br>
+1.	Login to your virtual machine using SSH - you should use the web browser based SSH client in the cloud provider's web UI, unless you already have a local SSH client setup and understand how to configure your SSH keys. <br>
+2.	Output the location of the directory that you are in upon logging in using ```pwd``` <br>
+3.	Output your username using ```whoami``` <br>
+4.	Output the hostname using ```uname -n``` <br>
+5.	Output a list of all users currently logged into your virtual machine using ```who``` <br> <br>
 
-  Note: you can also use the ```w``` command to output a list of users and their current activities.
+  Note: you can also use the ```w``` command to output a list of users and their current activities. <br> <br>
 
-6.	Output the uptime of your virtual machine with ```uptime```
+6.	Output the uptime of your virtual machine with ```uptime``` <br>
 
-## Part 2: Navigation and File Management
-1.	Create a new directory with your first initial and last name using the ```mkdir``` command.  For example, ```mkdir jdoe```.
-2.	Change to the directory that you just created using the ```cd``` command.  For example, ```cd jdoe```.
-3.	Use a simple for loop to create numbered files in the directory from the previous step.
+## Part 2: Navigation and File Management <br>
+1.	Create a new directory with your first initial and last name using the ```mkdir``` command.  For example, ```mkdir jdoe```. <br>
+2.	Change to the directory that you just created using the ```cd``` command.  For example, ```cd jdoe```. <br>
+3.	Use a simple for loop to create numbered files in the directory from the previous step. <br> <br>
 
-  Enter each line of the formatted text and hit ENTER after each line.  
+  Enter each line of the formatted text and hit ENTER after each line.   <br> <br>
 ```
 for NUM in `seq 1 99`
 do
 touch file${NUM}.txt
 done
 ```
+ <br> <br>
+  This example uses the ```seq``` command inside of a ```for loop``` with a variable ```NUM``` set to the output of the ```seq``` command to generate a range of numbers between 1 and 99.  The value of ```NUM``` is set to append a filename created using the ```touch``` command and then the process repeats until the ```for loop``` completes running through the sequence of numbers.   <br> <br>
+4.	List all files (including hidden files) in the current directory using the ```ls -a``` command. <br>
+5.	Count all files in the current directory by piping the output of the ```ls``` command to the ```wc``` command with ```ls -a | wc -l``` <br>
+6.	List all files in the current directory and output to a text file using something like this (``ls -al >listfiles``) <br>
+7.	Concatenate the file from the previous step using the ```cat``` command. <br>
+8.	Rename all of the text files in the current directory using a simple for loop like this. <br> <br>
 
-  This example uses the ```seq``` command inside of a ```for loop``` with a variable ```NUM``` set to the output of the ```seq``` command to generate a range of numbers between 1 and 99.  The value of ```NUM``` is set to append a filename created using the ```touch``` command and then the process repeats until the ```for loop``` completes running through the sequence of numbers.  
-4.	List all files (including hidden files) in the current directory using the ```ls -a``` command.
-5.	Count all files in the current directory by piping the output of the ```ls``` command to the ```wc``` command with ```ls -a | wc -l```
-6.	List all files in the current directory and output to a text file using something like this (``ls -al >listfiles``)
-7.	Concatenate the file from the previous step using the ```cat``` command.
-8.	Rename all of the text files in the current directory using a simple for loop like this.
-
-    Enter each line of the formatted text and hit ENTER after each line.
+    Enter each line of the formatted text and hit ENTER after each line. <br> <br>
 ```
 for FILE in `ls *.txt`
 do
 mv $FILE new$FILE
 done
 ```
-
-  This example uses the ```ls``` command inside of a ```for loop``` with a variable ```FILE``` set to the output of the ```ls``` command to generate a list of files.  The value of ```FILE``` is used twice in the ```mv``` command - first as the original filename and then appended to ```new``` to generate a new filename.  The ```mv``` command renames the file.  This process repeats until the ```for loop``` completes running through the list of files.
-9.	Change to your home directory using ```cd ~```
-10.	Change to the /etc directory and count the number of files ```cd /etc;ls -a | wc -l```
+ <br> <br>
+  This example uses the ```ls``` command inside of a ```for loop``` with a variable ```FILE``` set to the output of the ```ls``` command to generate a list of files.  The value of ```FILE``` is used twice in the ```mv``` command - first as the original filename and then appended to ```new``` to generate a new filename.  The ```mv``` command renames the file.  This process repeats until the ```for loop``` completes running through the list of files. <br> <br>
+9.	Change to your home directory using ```cd ~``` <br>
+10.	Change to the /etc directory and count the number of files ```cd /etc;ls -a | wc -l``` <br>
 
 ## Part 3: File Editing
 You may use either the vim or nano editor to perform these tasks.  This is a matter of personal preference.  The instructions for ```vim``` are prefaced with ****vim:**** and the instructions for ```nano``` are prefaced with ****nano:****.  
