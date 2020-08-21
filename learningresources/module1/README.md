@@ -30,10 +30,11 @@ Complete the Activities in the Read, Watch, Listen, Investigate Section below <b
 
 ## Read, Watch, Listen, Investigate
 ### Required Readings
-[Introduction to Cloud](https://github.com/captainarcher/cloud-management-course/tree/master/learningresources/module1/intro-to-cloud.md)<br>
-[AWS Fundamentals](https://aws.amazon.com/getting-started/fundamentals-core-concepts)<br>
-[GCP Fundamentals](https://cloud.google.com/docs/overview)<br>
-[Compare GCP and AWS](https://cloud.google.com/docs/compare/aws)<br>
+[<li>Introduction to Cloud](https://github.com/captainarcher/cloud-management-course/tree/master/learningresources/module1/intro-to-cloud.md)<br>
+[<li>Cloud Enablement Technologies](https://github.com/captainarcher/cloud-management-course/tree/master/learningresources/module1/cloud-enablement-tech.md)<br>
+[<li>AWS Fundamentals](https://aws.amazon.com/getting-started/fundamentals-core-concepts)<br>
+[<li>GCP Fundamentals](https://cloud.google.com/docs/overview)<br>
+[<li>Compare GCP and AWS](https://cloud.google.com/docs/compare/aws)<br>
 
 
 ### Cloud Vendor Videos
