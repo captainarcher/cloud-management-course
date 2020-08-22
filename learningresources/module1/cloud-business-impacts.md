@@ -10,13 +10,8 @@ Today, when you search for payroll services on Google, you will find a number of
 
 Prior to the late 2000's and early 2010's, it wasn't financially feasible for SaaS companies to really proliferate, because the cost of data centers, hardware, software, and staffing were too high.  The high barriers to entry kept new entrants out of the market and prices high.  Cloud infrastructure from companies like Amazon Web Services \(founded in 2006\) changed the IT world rapidly and companies like Gusto and Zenefits exist, because they can obtain on-demand infrastructure at a very low cost and run their applications on top of IaaS providers.  Today, you can setup payroll within minutes using SaaS-based providers and pay a very low monthly subscription fee.  
 
-![Screenshot: Gusto Payroll](.gitbook/assets/screen-shot-2019-08-23-at-5.31.48-pm.png)
-
 Other niche SaaS services have filled needs in transforming predominantly paper-based business processes such as expense reporting.  In 2005, Professor Underhill worked for a major IT services firm that was still using 1970's era mainframes for expense reporting and required that employees mail all receipts to the headquarters for manual processing.  Reimbursement took 2-4 weeks for domestic expenses and 4-6 weeks for international expenses.  Imagine floating business expenses for a month or more, simply because there wasn't a more efficient way to handle expenses.  The availability of IaaS enabled SaaS expense providers like Expensify to launch a cost-effective method for processing employee expense reimbursements.  Today, employees can snap a photo of a receipt immediately upon incurring the expense using an app on their mobile device and the expense report is automatically submitted for approval immediately with reimbursements occurring the next day.  The platform has integration into other SaaS software like ERP systems and utilizes IaaS to store all imaged receipts.  The best part for business is that the cost of processing employee expenses becomes as little as a few dollars a month, rather than hiring dedicated staff or purchasing on-premise solutions.  This level of service is only possible with a SaaS platform and wouldn't be cost-effective for a company to implement on-premises.
 
-![Screenshot: Expensify Mobile App](.gitbook/assets/img_96f3e876f967-1.jpeg)
-
-![Screenshot: Expensify](.gitbook/assets/screen-shot-2019-08-23-at-5.55.43-pm.png)
 
 ## Democratization of Technology
 
