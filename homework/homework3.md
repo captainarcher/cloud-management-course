@@ -21,5 +21,3 @@ You will document your progress in a brief report that meets the requirements be
   <li>Organized using an Introduction, Reflection, and Conclusion style
   <li>Your reflection will be a discussion of your progress as you complete the homework, including describing any challenges, how you overcame any challenges, and what you learned on this assignment.
 </ul>
-
-###### Please be sure to review the explanatory, "walk-through" videos on my YouTube channel as well as the optional supplemental materials under Module 2 in Cougar Courses.
