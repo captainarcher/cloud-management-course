@@ -9,17 +9,16 @@ This second module will introduce you to Linux and the command-line interface. 
 <li>Be able to provision cloud-based virtual servers</span>.
 
 ## Resources, Assignments and Due Dates
+<li>Complete the Activities in the Read, Watch, Listen, Investigate Section below
+<br>
+
+****Due: 14-September****
 
 <li>Contribute to Discussion #2 in Cougar Courses (2 posts are required - one is your response to the prompt and one is a substantive response to another student)	<br>
 
 ****Due: 14-September****
 
 <li>Submit [Homework #1: Getting Started with Cloud Infrastructure](https://github.com/captainarcher/cloud-management-course/blob/master/homework/homework1.md)	<br>
-
-****Due: 14-September****
-
-<li>Complete the Activities in the Read, Watch, Listen, Investigate Section below
-<br>
 
 ****Due: 14-September****
 

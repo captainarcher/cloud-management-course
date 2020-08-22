@@ -37,5 +37,4 @@ To be posted<br>
 To be posted
 
 ## Optional Readings, Videos, Activities, and Tutorials
-
-[<li>Introduction to Puppet](https://www.youtube.com/watch?v=Gs1MTLe0Ar0)
+[Continuous Delivery Principles](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)

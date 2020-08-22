@@ -1,0 +1,31 @@
+# Cloud Business Impacts
+
+This unit starts with discussing the impact that Cloud-based technologies have had on businesses.  Next, the unit discusses how Cloud-based technologies have led to a democratization of technology for businesses.  Finally, the unit briefly mentions how Cloud-based technologies have changed business balance sheets.  
+
+## General Impact
+
+In general, the proliferation of Cloud-based technologies has led to lower cost IT services, broader availability of IT services to businesses of all sizes, and greater choice.  
+
+Today, when you search for payroll services on Google, you will find a number of options ranging from the major providers like ADP, Paychex, and Quickbooks Payroll to smaller, SaaS companies like Gusto and Zenefits to local payroll processing firms.  As a business, you have many choices and can select the solution that best meets your needs.  It wasn't always this way and there was a time when you either spent millions of dollars to deploy an on-premise financial solution with payroll, paid a third party like ADP or Paycheck on a per employee basis, or ran payroll yourself.  If you ran payroll manually it involved manually adding up timecards, manually calculating taxes and benefit deductions, and then issuing paper checks.  If you worked for a small company, it wasn't possible to get direct deposit and you often had issues with lost checks and incorrect deductions.  Correcting the issues was an additional financial burden for business owners, but nothing changed because IT was focused on the enterprise market and not the small and medium business market.
+
+Prior to the late 2000's and early 2010's, it wasn't financially feasible for SaaS companies to really proliferate, because the cost of data centers, hardware, software, and staffing were too high.  The high barriers to entry kept new entrants out of the market and prices high.  Cloud infrastructure from companies like Amazon Web Services \(founded in 2006\) changed the IT world rapidly and companies like Gusto and Zenefits exist, because they can obtain on-demand infrastructure at a very low cost and run their applications on top of IaaS providers.  Today, you can setup payroll within minutes using SaaS-based providers and pay a very low monthly subscription fee.  
+
+![Screenshot: Gusto Payroll](.gitbook/assets/screen-shot-2019-08-23-at-5.31.48-pm.png)
+
+Other niche SaaS services have filled needs in transforming predominantly paper-based business processes such as expense reporting.  In 2005, Professor Underhill worked for a major IT services firm that was still using 1970's era mainframes for expense reporting and required that employees mail all receipts to the headquarters for manual processing.  Reimbursement took 2-4 weeks for domestic expenses and 4-6 weeks for international expenses.  Imagine floating business expenses for a month or more, simply because there wasn't a more efficient way to handle expenses.  The availability of IaaS enabled SaaS expense providers like Expensify to launch a cost-effective method for processing employee expense reimbursements.  Today, employees can snap a photo of a receipt immediately upon incurring the expense using an app on their mobile device and the expense report is automatically submitted for approval immediately with reimbursements occurring the next day.  The platform has integration into other SaaS software like ERP systems and utilizes IaaS to store all imaged receipts.  The best part for business is that the cost of processing employee expenses becomes as little as a few dollars a month, rather than hiring dedicated staff or purchasing on-premise solutions.  This level of service is only possible with a SaaS platform and wouldn't be cost-effective for a company to implement on-premises.
+
+![Screenshot: Expensify Mobile App](.gitbook/assets/img_96f3e876f967-1.jpeg)
+
+![Screenshot: Expensify](.gitbook/assets/screen-shot-2019-08-23-at-5.55.43-pm.png)
+
+## Democratization of Technology
+
+The Democratization of Technology refers to the ability of small businesses to have IT capabilities that are on par with what enterprises have had for decades.  These days, many organizations have IT capabilities that are on-part with what many large organizations have in-place.  These organizations may utilize Quickbooks Online for financials, Expensify for expenses, Gusto for payroll, Gust Launch for corporate administration, ConcordNow for a contract database, PandaDoc for proposals, Lever for HR, Box for data storage, Slack for client communication, SmartSheet for project planning, ClickUp for Agile planning, Miro and Zoom for client collaboration, Google Cloud Platform for the corporate website, and AWS for application development.  According to a State of the CIO survey from CIO Magazine, the average IT spending was 5.2% of annual revenue\[Endnote 1\].  
+
+## Impact on Business Balance Sheets
+
+Cloud computing has had an impact on business balance sheets as well.  On-premise computing involves capital and operating expenses, which requires careful forecasting at least a year in advance.  Cloud computing shifts these expenses to the operating budget, which enables businesses to align actual expenses to actual revenue and adjust as needed. With cloud computing, organizations can expand the technological infrastructure during busy periods and contract during slow periods.  As an example, during COVID-19, organizations like Zoom needed to rapidly expand infrastructure to support the significant growth of usage.
+
+## References
+
+\[Endnote 1\] [https://blog.techvera.com/company-it-spend](https://blog.techvera.com/company-it-spend)

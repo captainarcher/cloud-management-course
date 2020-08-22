@@ -1,14 +1,17 @@
 # Module 1
 ****Lectures will be posted by August 31st****
 ## Overview
-This first module will introduce you to the course expectations and then shift to an introduction to Cloud technologies.  We will wrap up this module by walking you through the steps needed to configure your Cloud platform accounts, access Cloud platforms, and then provision your first virtual machine for homework activities.  ****This first module forms a critical foundation for the rest of the course.  You do not want to fall behind.****
+This first module will introduce you to the course expectations and then shift to an introduction to Cloud technologies.  Next, we will explore cloud enablement technologies such as virtualization.  Then, we will talk about the business impact that cloud technologies have had on organizations.  We will wrap up this module by walking you through the steps needed to configure your Cloud platform accounts, access Cloud platforms, and then provision your first virtual machine for homework activities.  ****This first module forms a critical foundation for the rest of the course.  You do not want to fall behind.****
 
 ## Student Learning Outcomes (SLOs)
   <li>Explain the cloud enablement technologies <br>
   <li>Define cloud Computing <br>
   <li>Be able to describe the basic capabilities of cloud-based platforms <br>
   <li>Explain the differences between cloud service delivery and deployment models <br>
-  <li>Explain how cloud computing has enabled the digital transformation of businesses <br>
+  <li>Explain what is meant by the democratization of technology <br>
+  <li>Explain how the proliferation of cloud-based technologies has changed business balance sheets
+  <li>Describe business impacts of cloud-based technologies on organizations <br>
+  <li>Describe cloud enablement technologies <br>
   <li>Be able to access common cloud platforms using a web browser <br>
   <li>Be able to successfully provision a cloud virtual machine <br>
 
@@ -23,7 +26,7 @@ This first module will introduce you to the course expectations and then shift t
   ****Due: 7-September****
 
   <li>Signup for your Free GCP Student Account using the instructions provided under Module 1 in Cougar Courses.	<br>  
-  
+
   ****Due: 7-September****
 
   <li>Contribute to Discussion #1 in Cougar Courses (2 posts are required - one is your response to the prompt and one is a substantive response to another student)	<br>
@@ -38,6 +41,7 @@ This first module will introduce you to the course expectations and then shift t
 ### Required Readings
 [<li>Introduction to Cloud](https://github.com/captainarcher/cloud-management-course/tree/master/learningresources/module1/intro-to-cloud.md)<br>
 [<li>Cloud Enablement Technologies](https://github.com/captainarcher/cloud-management-course/tree/master/learningresources/module1/cloud-enablement-tech.md)<br>
+[<li>Cloud Business Impacts](https://github.com/captainarcher/cloud-management-course/tree/master/learningresources/module1/cloud-business-impacts.md)<br>
 [<li>AWS Fundamentals](https://aws.amazon.com/getting-started/fundamentals-core-concepts)<br>
 [<li>GCP Fundamentals](https://cloud.google.com/docs/overview)<br>
 [<li>Compare GCP and AWS](https://cloud.google.com/docs/compare/aws)<br>
