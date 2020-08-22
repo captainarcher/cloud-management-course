@@ -3,6 +3,12 @@
 ## Overview
 This second module will introduce you to Linux and the command-line interface.  By the time that you finish this module, you should have basic proficiency using basic Linux command-line interfaces to perform tasks.
 
+
+[Classroom Virtual Board](https://www.thomasu.me/boards/cloudmgmt-fall2020)
+
+****About the Virtual Board Feature:****
+I may use a virtual board during my lecture recordings to aid in the learning process.  The link above will generate a unique instance of the board for each student, so you are welcome to write notes on the board and only you will see them.  If you wish to save your notes, you must use the "Export Board" link at the top of the board or take a screenshot of the content.  A unique board is generated each time that you visit the board link.  A new page will be added to the board for each Module in the course.<br>
+
 ## Student Learning Outcomes (SLOs)
 <li>Be able to utilize Linux command-line interfaces.
 <li>Be able to use command-line text editors to edit files.
