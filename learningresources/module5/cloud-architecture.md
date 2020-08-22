@@ -68,7 +68,7 @@ Be sure to review the Cloud Architecture video linked from the main Module 5 pag
 ## Sample Cloud Architecture diagrams
 
 
-![<li>SaaS Providers - Image Source: Corradino, Hitch, Moua, Scannell, Tran (2019)](https://github.com/captainarcher/cloud-management-course/tree/master/learningresources/module5/cloud-architecture-examples/detailed-external-saas-providers-final.png)<br>
+[<li>SaaS Providers - Image Source: Corradino, Hitch, Moua, Scannell, Tran (2019)](https://github.com/captainarcher/cloud-management-course/tree/master/learningresources/module5/cloud-architecture-examples/detailed-external-saas-providers-final.png)<br>
 
 [<li>High-Level Architecture - Image Source: Corradino, Hitch, Moua, Scannell, Tran (2019)](https://github.com/captainarcher/cloud-management-course/tree/master/learningresources/module5/cloud-architecture-examples/high-level-architecture-diagram-using-gcp-and-other-products-final.png)<br>
 
