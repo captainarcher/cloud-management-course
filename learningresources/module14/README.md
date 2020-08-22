@@ -1,4 +1,4 @@
-# Module 12
+# Module 14
 ****This module is not ready for students yet****
 
 ## Overview
@@ -8,15 +8,15 @@ TBD
 ## Resources, Assignments and Due Dates
 <li>Review the Materials under the Read, Watch, Listen, Investigate Activity<br>
 
-****Due: 23-November****
+****Due: 6-December****
 
-<li>Contribute to Discussion #12 (2 posts are required - one is your response to the prompt and one is a substantive response to another student) <br>
+<li>Contribute to Discussion #14 (2 posts are required - one is your response to the prompt and one is a substantive response to another student) <br>
 
-****Due: 23-November**** <br>
+****Due: 6-December**** <br>
 
-<li>Submit Homework #6 <br>
+<li>Start on Homework #7 <br>
 
-****Due: 23-November**** <br>
+****Due: 6-December**** <br>
 
 
 ## Read, Watch, Listen, Investigate

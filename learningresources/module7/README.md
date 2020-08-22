@@ -26,11 +26,11 @@ We are nearly at the midway point of the course, so this is an opportunity for y
 ## Read, Watch, Listen, Investigate
 ### Required Readings
 To be posted<br>
-Terraform Documentation
+TBD
 
 ### Required Videos and Activities
 To be posted<br>
-TBD Terraform Tutorials (there are Getting Started tutorials for AWS and GCP)
+TBD
 
 ### Lectures and Demos
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
@@ -38,5 +38,3 @@ TBD Terraform Tutorials (there are Getting Started tutorials for AWS and GCP)
 To be posted
 
 ## Optional Readings, Videos, Activities, and Tutorials
-
-[<li>Introduction to Puppet](https://www.youtube.com/watch?v=Gs1MTLe0Ar0)
