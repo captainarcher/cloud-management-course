@@ -4,29 +4,35 @@
 This first module will introduce you to the course expectations and then shift to an introduction to Cloud technologies.  We will wrap up this module by walking you through the steps needed to configure your Cloud platform accounts, access Cloud platforms, and then provision your first virtual machine for homework activities.  ****This first module forms a critical foundation for the rest of the course.  You do not want to fall behind.****
 
 ## Student Learning Outcomes (SLOs)
-  <li>Define cloud Computing
-  <li>Be able to describe the basic capabilities of cloud-based platforms
-  <li>Explain the differences between cloud service delivery and deployment models
-  <li>Explain how cloud computing has enabled the digital transformation of businesses
-  <li>Be able to access common cloud platforms using a web browser
-  <li>Be able to successfully provision a cloud virtual machine
+  <li>Explain the cloud enablement technologies <br>
+  <li>Define cloud Computing <br>
+  <li>Be able to describe the basic capabilities of cloud-based platforms <br>
+  <li>Explain the differences between cloud service delivery and deployment models <br>
+  <li>Explain how cloud computing has enabled the digital transformation of businesses <br>
+  <li>Be able to access common cloud platforms using a web browser <br>
+  <li>Be able to successfully provision a cloud virtual machine <br>
 
 ## Resources, Assignments and Due Dates
 
-[Signup for your Free AWS Educate Account](https://aws.amazon.com/education/awseducate/students/) using your CSUSM email.	<br>
-****Due: 7-September****
+  <li>Complete the Activities in the Read, Watch, Listen, Investigate Section below <br>
 
-Signup for your Free GCP Student Account using the instructions provided under Module 1 in Cougar Courses.	<br>
-****Due: 7-September****
+  ****Due: 7-September****
 
-Contribute to Discussion #1 in Cougar Courses (2 posts are required - one is your response to the prompt and one is a substantive response to another student)	<br>
-****Due: 7-September****
+  <li>[Signup for your Free AWS Educate Account](https://aws.amazon.com/education/awseducate/students/) using your CSUSM email.	<br>
 
-Start [Homework #1: Getting Started with Cloud Infrastructure](https://github.com/captainarcher/cloud-management-course/blob/master/homework/homework1.md)	<br>
+  ****Due: 7-September****
+
+  <li>Signup for your Free GCP Student Account using the instructions provided under Module 1 in Cougar Courses.	<br>  
+  
+  ****Due: 7-September****
+
+  <li>Contribute to Discussion #1 in Cougar Courses (2 posts are required - one is your response to the prompt and one is a substantive response to another student)	<br>
+
+  ****Due: 7-September****
+
+  <li>Start [Homework #1: Getting Started with Cloud Infrastructure](https://github.com/captainarcher/cloud-management-course/blob/master/homework/homework1.md)	<br>
+
 ****Due: 14-September****
-
-Complete the Activities in the Read, Watch, Listen, Investigate Section below <br>
-****Due: 7-September****
 
 ## Read, Watch, Listen, Investigate
 ### Required Readings
