@@ -2,7 +2,7 @@
 ****This module is not ready for students yet****
 
 ## Overview
-This fifth module will introduce you to source code repositories and cloud automation.  We will also discuss the role of a cloud architect and walk through various examples of architectures.  By the time that you finish this module, you should have a good understanding of the purpose of source code repositories and how automation can streamline cloud management.  You will also be able to prepare a cloud architecture design diagram from business requirements.  If you did not learn about business requirements in MIS302/304, then you should review the material provided in the Optional Materials section at the end of this module.
+This fifth module will introduce you to source code repositories and cloud automation.  We will also discuss the role of a cloud architect and walk through various examples of architectures.  By the time that you finish this module, you should have a good understanding of the purpose of source code repositories and how automation can streamline cloud management.  You will also be able to prepare a cloud architecture design diagram from business requirements.  
 
 ## Learning Outcomes (SLOs)
 <li>Be able to explain how source code repositories work<br>
@@ -43,12 +43,13 @@ Sign up for your free [GitHub Student Developer Pack](https://education.github.c
 ## Read, Watch, Listen, Investigate
 ### Required Readings
 To be posted<br>
-[<li>Introduction to Terraform](https://www.terraform.io/intro/index.html)<br>
 [<li>Cloud Architecture](https://github.com/captainarcher/cloud-management-course/tree/master/learningresources/module5/cloud-architecture.md)<br>
+[<li>Introduction to Terraform](https://www.terraform.io/intro/index.html)<br>
 
 ### Required Videos
 To be posted<br>
 [<li>Introduction to GitHub - 21:26](https://youtu.be/sz6zfrQpCQg)<br>
+[<li>GitHub Introduction Learning Lab Video](https://youtu.be/sz6zfrQpCQg)<br>
 
 
 ### Lectures and Demos
@@ -58,6 +59,6 @@ To be posted
 
 ## Optional Readings, Videos, Activities, and Tutorials
 [<li>Optional: Upload a Project to GitHub - 39:00](https://lab.github.com/githubtraining/uploading-your-project-to-github)<br><br>
-We will not be using Chef or Puppet in this course, but these configuration management tools are often found in organizations and you may wish to become familiar with them.<br>
+We will not be using Chef or Puppet in this course, but these configuration management tools are often found in organizations and you may wish to become familiar with them in the future.<br>
 [<li>Introduction to Chef](https://www.youtube.com/watch?v=jlwGcgFfcnU)<br>
 [<li>Introduction to Puppet](https://www.youtube.com/watch?v=Gs1MTLe0Ar0)
