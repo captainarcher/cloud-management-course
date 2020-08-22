@@ -1,4 +1,5 @@
 # Module 4
+****This module is not ready for students yet****
 
 ## Overview
 This fourth module will introduce you to Cloud Identity Management and Cloud Networking.  By the time that you finish this module, you should have a good understanding of Cloud Identity Management and Networking.
@@ -34,8 +35,7 @@ Add materials for Auth0, Okta, etc.<br>
 [<li>The Journey to Cloud Networking Blog - AWS](https://aws.amazon.com/blogs/architecture/the-journey-to-cloud-networking)<br>
 [<li>Introduction to AWS Virtual Private Cloud or VPC](https://aws.amazon.com/vpc/)<br>
 [<li>Getting Started with AWS VPC](https://aws.amazon.com/vpc/getting-started/)<br>
-[GCP Networking]<br>
-[GCP VPC Documentation](https://cloud.google.com/vpc/docs/vpc)<br>
+[<li>GCP VPC Documentation](https://cloud.google.com/vpc/docs/vpc)<br>
 [<li>Getting Started with AWS Identity and Access Management or IAM](https://aws.amazon.com/iam)
 [<li>Getting Started with GCP IAM](https://cloud.google.com/iam)<br>
 [<li>What is HashiCorp Vault?](https://www.vaultproject.io/docs/what-is-vault)<br>

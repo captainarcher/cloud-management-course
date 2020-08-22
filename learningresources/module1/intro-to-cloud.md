@@ -42,13 +42,16 @@ There can be different classifications of public cloud environments that align w
 [<li>Microsoft Azure](https://azure.microsoft.com)<br>
 
 ### Private cloud
-A private cloud environment is designed for use by a single organization.
+A private cloud environment is designed for use by a single organization.<br>
+
+#### Example
+[<li>OpenStack](https://www.openstack.org/)<br>
 
 ### Hybrid cloud
 This is when organizations implement both public and private clouds using technologies to facilitate interoperability between the platforms.
 
 ### Multi-cloud
-This is when organizations implement multiple public cloud providers to minimize the risk of vendor lock-in.  In a multi-cloud deployment, organizations leverage third-party tooling to manage resources.
+This is when organizations implement multiple public cloud providers to minimize the risk of vendor lock-in.  In a multi-cloud deployment, organizations leverage third-party tooling to manage resources.  We will discuss multi-cloud tooling options in Modules 5 and 6.
 
 ### Community Cloud
 This type of cloud environment is designed for use by a community of common end-users with shared requirements.  These are less common than other cloud types.

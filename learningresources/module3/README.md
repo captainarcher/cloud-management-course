@@ -1,4 +1,5 @@
 # Module 3
+****This module is not ready for students yet****
 ## Overview
 This third module will introduce you to the Amazon Web Services (AWS) and Google Cloud Platform (GCP) Command-Line Interfaces.  We will also introduce you to Cloud Storage.  By the time that you finish this module, you should have basic proficiency using the AWS and GCP command-line interfaces to perform tasks.  You should also have an understanding of Cloud storage technologies.
 

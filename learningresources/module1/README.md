@@ -1,5 +1,5 @@
 # Module 1
-
+****Lectures will be posted by August 31st****
 ## Overview
 This first module will introduce you to the course expectations and then shift to an introduction to Cloud technologies.  We will wrap up this module by walking you through the steps needed to configure your Cloud platform accounts, access Cloud platforms, and then provision your first virtual machine for homework activities.  ****This first module forms a critical foundation for the rest of the course.  You do not want to fall behind.****
 
@@ -38,29 +38,29 @@ Complete the Activities in the Read, Watch, Listen, Investigate Section below <b
 
 
 ### Cloud Vendor Videos
-[Introduction to Amazon Web Services or AWS - 3:10](https://aws.amazon.com/getting-started/fundamentals-overview)<br>
-[Introduction to AWS Elastic Compute Cloud or EC2 - 4:01](https://www.youtube.com/watch?v=TsRBftzZsQo)<br>
-[Introduction to AWS Simple Storage Service or S3 Part 1 - 4:31](https://www.youtube.com/watch?v=_I14_sXHO8U)<br>
-[Introduction to AWS S3 Part 2 - 3:16](https://www.youtube.com/watch?v=77lMCiiMilo)
-[Introduction to Google Cloud Platform or GCP - 5:57](https://www.youtube.com/watch?v=4D3X6Xl5c_Y)<br>
-[Introduction to GCP for Students - 42:37](https://www.youtube.com/watch?v=JtUIQz_EkUw)<br>
-[Getting Started with GCP Compute Engine - 1:20](https://www.youtube.com/watch?v=1XH0gLlGDdk)<br>
-[Getting Started with GCP Storage - 1:20](https://www.youtube.com/watch?v=TfOO-fSzTNA)
+[<li>Introduction to Amazon Web Services or AWS - 3:10](https://aws.amazon.com/getting-started/fundamentals-overview)<br>
+[<li>Introduction to AWS Elastic Compute Cloud or EC2 - 4:01](https://www.youtube.com/watch?v=TsRBftzZsQo)<br>
+[<li>Introduction to AWS Simple Storage Service or S3 Part 1 - 4:31](https://www.youtube.com/watch?v=_I14_sXHO8U)<br>
+[<li>Introduction to AWS S3 Part 2 - 3:16](https://www.youtube.com/watch?v=77lMCiiMilo)<br>
+[<li>Introduction to Google Cloud Platform or GCP - 5:57](https://www.youtube.com/watch?v=4D3X6Xl5c_Y)<br>
+[<li>Introduction to GCP for Students - 42:37](https://www.youtube.com/watch?v=JtUIQz_EkUw)<br>
+[<li>Getting Started with GCP Compute Engine - 1:20](https://www.youtube.com/watch?v=1XH0gLlGDdk)<br>
+[<li>Getting Started with GCP Storage - 1:20](https://www.youtube.com/watch?v=TfOO-fSzTNA)
 
 
 ### Lectures and Demos
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
 ****Individual Recordings****<br>
-[Course Introduction]<br>
-[Introduction to Cloud]<br>
-[Setting up your GCP Account]<br>
-[Setting up your AWS Account]<br>
-[AWS and GCP Graphical Cloud Console Demo]<br>
-[Provisioning Your First VM]
+[<li>Course Introduction]<br>
+[<li>Introduction to Cloud]<br>
+[<li>Setting up your GCP Account]<br>
+[<li>Setting up your AWS Account]<br>
+[<li>AWS and GCP Graphical Cloud Console Demo]<br>
+[<li>Provisioning Your First VM]
 
-## Optional Readings, Videos, and Tutorials
-[GCP Best Practices for Managing Compute Engine VM Instances - 43:05](https://www.youtube.com/watch?v=ZJNY7VAKYzw)<br>
-[GCP Compute VM Instances Documentation](https://cloud.google.com/compute/docs/instances)<br>
-[GCP Storage Documentation](https://cloud.google.com/storage/docs)<br>
-[GCP Cloud Storage Static Website Tutorial](https://cloud.google.com/storage/docs/hosting-static-website)<br>
-[Getting Started with AWS S3 tutorial](https://aws.amazon.com/s3/getting-started)<br>
+### Optional Readings, Videos, and Tutorials
+[<li>GCP Best Practices for Managing Compute Engine VM Instances - 43:05](https://www.youtube.com/watch?v=ZJNY7VAKYzw)<br>
+[<li>GCP Compute VM Instances Documentation](https://cloud.google.com/compute/docs/instances)<br>
+[<li>GCP Storage Documentation](https://cloud.google.com/storage/docs)<br>
+[<li>GCP Cloud Storage Static Website Tutorial](https://cloud.google.com/storage/docs/hosting-static-website)<br>
+[<li>Getting Started with AWS S3 tutorial](https://aws.amazon.com/s3/getting-started)<br>

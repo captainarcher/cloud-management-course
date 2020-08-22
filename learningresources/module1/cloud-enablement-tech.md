@@ -70,6 +70,8 @@ In containerization, the operating system is abstracted, rather than the hardwar
 <br>
 
 ### Supplemental Resources
+[<li>Introduction to Nomad](https://www.youtube.com/watch?v=s_Fm9UtL4YU)<br>
+
 [<li>Kubernetes in 5 Minutes](https://www.youtube.com/watch?v=PH-2FfFD2PU)<br>
 
 [<li>Docker Tutorial](https://youtu.be/h0NCZbHjIpY)
@@ -105,4 +107,4 @@ Google has a [comparison of GCP and AWS storage options](https://cloud.google.co
 
 ## Application Programming Interfaces \(APIs\)
 
-[Application Programming Interfaces \(APIs\)](https://en.wikipedia.org/wiki/Application\_programming\_interface) are an enabling technology for cloud services as they provide mechanisms for automated application interactions.  APIs provide protocols and tools that enable services to interoperate.  Cloud service providers provide APIs to enable the automatic provisioning and management of services.  We will be utilizing a variety of different APIs in this course as we explore [GCP](https://cloud.google.com/apis/docs/overview), [AWS](https://docs.aws.amazon.com), and other tools. 
+[Application Programming Interfaces \(APIs\)](https://en.wikipedia.org/wiki/Application\_programming\_interface) are an enabling technology for cloud services as they provide mechanisms for automated application interactions.  APIs provide protocols and tools that enable services to interoperate.  Cloud service providers provide APIs to enable the automatic provisioning and management of services.  We will be utilizing a variety of different APIs in this course as we explore [GCP](https://cloud.google.com/apis/docs/overview), [AWS](https://docs.aws.amazon.com), and other tools.

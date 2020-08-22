@@ -1,5 +1,5 @@
 # Module 2
-
+****The lectures will be posted by August 31st****
 ## Overview
 This second module will introduce you to Linux and the command-line interface.  By the time that you finish this module, you should have basic proficiency using basic Linux command-line interfaces to perform tasks.
 
@@ -10,18 +10,22 @@ This second module will introduce you to Linux and the command-line interface. 
 
 ## Resources, Assignments and Due Dates
 
-Contribute to Discussion #2 in Cougar Courses (2 posts are required - one is your response to the prompt and one is a substantive response to another student)	<br>
+<li>Contribute to Discussion #2 in Cougar Courses (2 posts are required - one is your response to the prompt and one is a substantive response to another student)	<br>
+
 ****Due: 14-September****
 
-Submit [Homework #1: Getting Started with Cloud Infrastructure](https://github.com/captainarcher/cloud-management-course/blob/master/homework/homework1.md)	<br>
+<li>Submit [Homework #1: Getting Started with Cloud Infrastructure](https://github.com/captainarcher/cloud-management-course/blob/master/homework/homework1.md)	<br>
+
 ****Due: 14-September****
 
-Complete the Activities in the Read, Watch, Listen, Investigate Section below
+<li>Complete the Activities in the Read, Watch, Listen, Investigate Section below
 <br>
+
 ****Due: 14-September****
 
-Start [Homework #2: Getting Started with the Linux Command Line](https://github.com/captainarcher/cloud-management-course/blob/master/homework/homework2.md)
+<li>Start [Homework #2: Getting Started with the Linux Command Line](https://github.com/captainarcher/cloud-management-course/blob/master/homework/homework2.md)
 <br>
+
 ****Due: 28-September****
 
 ## Read, Watch, Listen, Investigate
