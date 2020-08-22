@@ -10,10 +10,10 @@
 
 ## Introduction
 
-Over the past fifteen to twenty years we have shifted from a world driven by hardware purchases, software licensing, expensive IT services, and multi-year IT projects to a world where we can push a button and utilize a new IT service in a matter of minutes.  So, how did we get to this point where new IT services can be delivered immediately?  The answer is that there has been immense development over the past fifteen years or so focused on automation and software-defined services.  Infrastructure has gone from hardware-defined to software-defined, or Infrastructure as Code.  
+Over the past fifteen to twenty years we have shifted from a world driven by hardware purchases, software licensing, expensive IT services, and multi-year IT projects to a world where we can push a button and utilize a new IT service in a matter of minutes.  So, how did we get to this point where new IT services can be delivered immediately?  The answer is that there has been immense development over the past fifteen years or so focused on automation and software-defined services.  Infrastructure has gone from hardware-defined to software-defined, or Infrastructure as Code.  <br>
 
 
-At the same time, networks have become faster, hardware costs have dropped, virtualization has improved resource utilization, applications have become more complex, and storage options have evolved.  Networking, virtualization, containerization, object storage, software defined networking, and software defined data centers have enabled cloud platforms to experience rapid growth.  This has resulted in IT workloads rapidly shifting to the cloud at a faster pace year after year.
+At the same time, networks have become faster, hardware costs have dropped, virtualization has improved resource utilization, applications have become more complex, and storage options have evolved.  Networking, virtualization, containerization, object storage, software defined networking, and software defined data centers have enabled cloud platforms to experience rapid growth.  This has resulted in IT workloads rapidly shifting to the cloud at a faster pace year after year. <br>
 
 ## Compute
 
