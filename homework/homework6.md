@@ -1,1 +1,1 @@
-#Homework 6: Cloud Automation Part 1
+# Homework 6: Cloud Automation Part 1
