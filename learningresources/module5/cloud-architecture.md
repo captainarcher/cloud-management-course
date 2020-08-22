@@ -37,7 +37,7 @@ The reporting phase is the final phase and is where you will prepare your initia
 
 ## IT Requirements
 
-After you have completed your IT Systems Audit and Inventory, then you are ready to begin creating very detailed business requirements for each IT system.  Your business requirements must be detailed enough for someone unfamiliar with the system to be able to either develop software to meet the requirements, or be able to find an existing system that meets all requirements. <br> 
+After you have completed your IT Systems Audit and Inventory, then you are ready to begin creating very detailed business requirements for each IT system.  Your business requirements must be detailed enough for someone unfamiliar with the system to be able to either develop software to meet the requirements, or be able to find an existing system that meets all requirements. <br>
 
 The recommended approach is to compile a separate business requirements document \(BRD\) for each individual system and then use that BRD document to define whether to build or buy a solution.  In addition to defining the requirements, prioritization and classification are critical.  Prioritization is where you determine how important the requirement is, relative to business resource limitations.  Classification is where you determine whether the requirement is a functional or non-functional requirement and then further break that requirement down into more specialized requirements.
 
@@ -68,7 +68,7 @@ Be sure to review the Cloud Architecture video linked from the main Module 5 pag
 ## Sample Cloud Architecture diagrams
 
 
-[<li>SaaS Providers - Image Source: Corradino, Hitch, Moua, Scannell, Tran (2019)](https://github.com/captainarcher/cloud-management-course/tree/master/learningresources/module5/cloud-architecture-examples/detailed-external-saas-providers-final.png)<br>
+![<li>SaaS Providers - Image Source: Corradino, Hitch, Moua, Scannell, Tran (2019)](https://github.com/captainarcher/cloud-management-course/tree/master/learningresources/module5/cloud-architecture-examples/detailed-external-saas-providers-final.png)<br>
 
 [<li>High-Level Architecture - Image Source: Corradino, Hitch, Moua, Scannell, Tran (2019)](https://github.com/captainarcher/cloud-management-course/tree/master/learningresources/module5/cloud-architecture-examples/high-level-architecture-diagram-using-gcp-and-other-products-final.png)<br>
 
