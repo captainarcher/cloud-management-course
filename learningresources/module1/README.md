@@ -74,6 +74,7 @@ I may use a virtual board during my lecture recordings to aid in the learning pr
 [<li>Provisioning Your First VM]
 
 ### Optional Readings, Videos, and Tutorials
+[<li>Getting Started with AWS S3](https://aws.amazon.com/getting-started/hands-on/backup-files-to-amazon-s3/)<br>
 [<li>GCP Best Practices for Managing Compute Engine VM Instances - 43:05](https://www.youtube.com/watch?v=ZJNY7VAKYzw)<br>
 [<li>GCP Compute VM Instances Documentation](https://cloud.google.com/compute/docs/instances)<br>
 [<li>GCP Storage Documentation](https://cloud.google.com/storage/docs)<br>

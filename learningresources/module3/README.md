@@ -8,12 +8,11 @@ This third module will introduce you to the Amazon Web Services (AWS) and Google
 ****About the Virtual Board Feature:****
 I may use a virtual board during my lecture recordings to aid in the learning process.  The link above will generate a unique instance of the board for each student, so you are welcome to write notes on the board and only you will see them.  If you wish to save your notes, you must use the "Export Board" link at the top of the board or take a screenshot of the content.  A unique board is generated each time that you visit the board link.  A new page will be added to the board for each Module in the course.<br>
 
-
 ## Learning Outcomes (SLOs)
 <li>Be able to utilize AWS and GCP command-line interfaces
-<li>Be able to deploy cloud resources
-<li>Explain the difference between cloud storage technologies
-<li>Be able to deploy various cloud storage technologies
+<li>Demonstrate the ability to deploy cloud resources using the AWS and GCP command-line interfaces
+<li>Demonstrate the ability to manage cloud resources using the AWS and GCP command-line interfaces
+
 
 ## Resources, Assignments and Due Dates
 
@@ -29,8 +28,8 @@ Work on Homework #2
 ## Read, Watch, Listen, Investigate
 ### Required Readings
 [<li>AWS Command Line Interface](https://aws.amazon.com/cli)<br>
-[<li>GCP Command Line Interface](https://cloud.google.com/sd)<br>
-[<li>Getting Started with AWS S3](https://aws.amazon.com/getting-started/hands-on/backup-files-to-amazon-s3/)<br>
+[<li>GCP Command Line Interface](https://cloud.google.com/shell)<br>
+
 ### Required Videos
 [<li>AWS Command Line Interface Video - 34:39](https://www.youtube.com/watch?v=qiPt1NoyZm0)
 [<li>GCP Command Line Interface Getting Started Video - 1:32](https://www.youtube.com/watch?v=D0x6B-4oUNM)
