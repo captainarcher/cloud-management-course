@@ -57,7 +57,7 @@ I may use a virtual board during my lecture recordings to aid in the learning pr
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
 ****Individual Recordings****<br>
 [<li>Course Introduction](https://youtu.be/Og2KcfVLnd4)<br>
-[<li>Introduction to Cloud]<br>
+[<li>Introduction to Cloud](https://youtu.be/gocHAaqAlSA)<br>
 [<li>Setting up your GCP Account]<br>
 [<li>Setting up your AWS Account]<br>
 [<li>AWS and GCP Graphical Cloud Console Demo]<br>
