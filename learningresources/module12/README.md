@@ -1,5 +1,4 @@
 # Module 12
-****This module is not ready for students yet****
 
 ## Overview
 For the remainder of this course you should work on your project.  You are strongly encouraged to meet with Professor Underhill to review your current project status and solicit feedback.
