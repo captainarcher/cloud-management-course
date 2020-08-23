@@ -22,25 +22,15 @@ I may use a virtual board during my lecture recordings to aid in the learning pr
 
 ## Resources, Assignments and Due Dates
 
-  <li>Complete the Activities in the Read, Watch, Listen, Investigate Section below <br>
+  * Complete the Activities in the Read, Watch, Listen, Investigate Section below ****Due: 7-September****
 
-  ****Due: 7-September****
+  * [Signup for your Free AWS Educate Account](https://aws.amazon.com/education/awseducate/students/) using your CSUSM email.	****Due: 7-September****
 
-  <li>[Signup for your Free AWS Educate Account](https://aws.amazon.com/education/awseducate/students/) using your CSUSM email.	<br>
+  * Signup for your Free GCP Student Account using the instructions provided under Module 1 in Cougar Courses.	****Due: 7-September****
 
-  ****Due: 7-September****
+  * Contribute to Discussion #1 in Cougar Courses (2 posts are required - one is your response to the prompt and one is a substantive response to another student)	****Due: 7-September****
 
-  <li>Signup for your Free GCP Student Account using the instructions provided under Module 1 in Cougar Courses.	<br>  
-
-  ****Due: 7-September****
-
-  <li>Contribute to Discussion #1 in Cougar Courses (2 posts are required - one is your response to the prompt and one is a substantive response to another student)	<br>
-
-  ****Due: 7-September****
-
-  <li>Start [Homework #1: Getting Started with Cloud Infrastructure](https://github.com/captainarcher/cloud-management-course/blob/master/homework/homework1.md)	<br>
-
-****Due: 14-September****
+  * Start [Homework #1: Getting Started with Cloud Infrastructure](https://github.com/captainarcher/cloud-management-course/blob/master/homework/homework1.md)	****Due: 14-September****
 
 ## Read, Watch, Listen, Investigate
 ### Required Readings
@@ -66,7 +56,7 @@ I may use a virtual board during my lecture recordings to aid in the learning pr
 ### Lectures and Demos
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
 ****Individual Recordings****<br>
-[<li>Course Introduction]<br>
+[<li>Course Introduction](https://youtu.be/Og2KcfVLnd4)<br>
 [<li>Introduction to Cloud]<br>
 [<li>Setting up your GCP Account]<br>
 [<li>Setting up your AWS Account]<br>
