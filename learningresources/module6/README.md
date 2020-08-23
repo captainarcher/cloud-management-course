@@ -44,3 +44,7 @@ To be posted
 
 ## Optional Readings, Videos, Activities, and Tutorials
 [Continuous Delivery Principles](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
+
+[<li>Optional Activity: Deploying a Containerized Web Application](https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app)<br>
+
+[<li>Optional Activity: Persistent Disks with WordPress and MySQL on Kubernetes Engine](https://cloud.google.com/kubernetes-engine/docs/tutorials/persistent-disk)

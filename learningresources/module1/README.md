@@ -1,5 +1,5 @@
 # Module 1
-****Lectures will be posted by August 31st****
+****The lecture links have not been posted yet.  Please check back later.****
 ## Overview
 This first module will introduce you to the course expectations and then shift to an introduction to Cloud technologies.  Next, we will explore cloud enablement technologies such as virtualization.  Then, we will talk about the business impact that cloud technologies have had on organizations.  We will wrap up this module by walking you through the steps needed to configure your Cloud platform accounts, access Cloud platforms, and then provision your first virtual machine for homework activities.  ****This first module forms a critical foundation for the rest of the course.  You do not want to fall behind.****
 

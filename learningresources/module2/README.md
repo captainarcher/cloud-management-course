@@ -1,5 +1,5 @@
 # Module 2
-****The lectures will be posted by August 31st****
+****The lecture links have not been posted yet.  Please check back later.****
 ## Overview
 This second module will introduce you to Linux and the command-line interface.  By the time that you finish this module, you should have basic proficiency using basic Linux command-line interfaces to perform tasks.
 
