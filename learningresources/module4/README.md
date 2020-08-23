@@ -1,15 +1,14 @@
 # Module 4
-****This module is not ready for students yet****
+****The lecture links have not been posted yet.  Please check back later.****
+****This module is not yet ready for students****
 
 ## Overview
 This fourth module will introduce you to Cloud Identity Management and Cloud Networking.  By the time that you finish this module, you should have a good understanding of Cloud Identity Management and Networking.
-
 
 [Classroom Virtual Board](https://www.thomasu.me/boards/cloudmgmt-fall2020)
 
 ****About the Virtual Board Feature:****
 I may use a virtual board during my lecture recordings to aid in the learning process.  The link above will generate a unique instance of the board for each student, so you are welcome to write notes on the board and only you will see them.  If you wish to save your notes, you must use the "Export Board" link at the top of the board or take a screenshot of the content.  A unique board is generated each time that you visit the board link.  A new page will be added to the board for each Module in the course.<br>
-
 
 ## Learning Outcomes (SLOs)
 <li>Be able to explain the purpose and importance of Cloud Identity Management
@@ -58,6 +57,9 @@ To be posted<br>
 [<li>Getting Started with GCP IAM - 3:48](https://www.youtube.com/watch?v=O_O5Hb1bJyw)<br>
 [<li>Managing Access Controls in GCP IAM - 4:08](https://www.youtube.com/watch?v=PqMGmRhKsnM&amp;vl=en)<br>
 [<li>Best Practices for GCP IAM](https://www.youtube.com/watch?v=qf_D92_yqbQ)<br>
+[<li>Auth0 Explainer Video](https://auth0.com/resources/videos/auth0-explainer-video)<br>
+[<li>Introduction to Vault Video - 16:52](https://www.youtube.com/watch?v=VYfl-DpZ5wM)<br>
+[<li>How web authentication works](https://www.okta.com/video/oktane20-how-web-authentication-works/)<br>
 
 ### Lectures and Demos
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
@@ -67,6 +69,7 @@ To be posted
 ## Optional Readings, Videos, Activities, and Tutorials
 [<li>GCP Cloud IAM Identity and Authorization from the Google Cloud NEXT Conference - 33:35](https://www.youtube.com/watch?v=L5_GyNtMvbg)<br>
 [<li>GCP VPC from the Google Cloud NEXT Conference - 49:42](https://www.youtube.com/watch?v=wmP6SQe5J7g)<br>
+[<li>Microservice Authentication and Authorization Talk at DevOpsCon - 1:05:41](https://www.hashicorp.com/resources/microservice-authn-and-authz/)<br>
 [<li>Optional Activity: Getting Started with Multi-Cloud Secrets Management using HashiCorp Vault - 83:00](https://learn.hashicorp.com/vault/getting-started/vault-intro)<br>
 [<li>Optional Activity: HashiCorp Vault Basics - 90:00](https://play.instruqt.com/hashicorp/tracks/vault-basics)<br>
 [<li>Optional Activity: Load Balancing](https://cloud.google.com/kubernetes-engine/docs/tutorials/http-balancer)<br>
