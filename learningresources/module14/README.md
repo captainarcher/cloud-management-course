@@ -15,7 +15,7 @@ I may use a virtual board during my lecture recordings to aid in the learning pr
 
 ****Due: 6-December**** <br>
 
-<li>Start on Homework #7 <br>
+<li>Submit Homework #7 <br>
 
 ****Due: 6-December**** <br>
 

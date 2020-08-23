@@ -24,7 +24,8 @@ I may use a virtual board during my lecture recordings to aid in the learning pr
 
 ****Due: 21-September****
 
-<li>Work on Homework #2<br>
+<li>Work on [Homework #2: Getting Started with the Linux Command Line](https://github.com/captainarcher/cloud-management-course/blob/master/homework/homework2.md)
+<br>
 
 ****Due: 28-September****
 

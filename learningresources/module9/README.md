@@ -21,10 +21,10 @@ TBD
 
 ****Due: 2-November**** <br>
 
-<li>Start on Homework #5 <br>
+<li>Start on Homework #5](https://github.com/captainarcher/cloud-management-course/blob/master/homework/homework5.md)
+<br>
 
 ****Due: 9-November**** <br>
-
 
 ## Read, Watch, Listen, Investigate
 ### Required Readings

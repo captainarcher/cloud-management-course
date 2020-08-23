@@ -24,7 +24,7 @@ TBD
 
 ****Due: 12-October**** <br>
 
-<li>Start on Homework #3 <br>
+<li>Submit Homework #3 <br>
 
 ****Due: 12-October**** <br>
 

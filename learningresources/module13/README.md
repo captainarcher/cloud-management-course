@@ -15,7 +15,8 @@ I may use a virtual board during my lecture recordings to aid in the learning pr
 
 ****Due: 30-November**** <br>
 
-<li>Start on Homework #7 <br>
+<li>Start on Homework #7](https://github.com/captainarcher/cloud-management-course/blob/master/homework/homework7.md)
+<br><br>
 
 ****Due: 6-December**** <br>
 

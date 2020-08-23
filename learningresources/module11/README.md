@@ -21,7 +21,8 @@ TBD
 
 ****Due: 16-November**** <br>
 
-<li>Start on Homework #6 <br>
+<li>Start on Homework #6](https://github.com/captainarcher/cloud-management-course/blob/master/homework/homework6.md)
+<br>
 
 ****Due: 23-November**** <br>
 

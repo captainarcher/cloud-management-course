@@ -42,10 +42,10 @@ I may use a virtual board during my lecture recordings to aid in the learning pr
 
 ****Due: 5-October**** <br>
 
-<li>Start on Homework #3 <br>
+<li>Start on Homework #3](https://github.com/captainarcher/cloud-management-course/blob/master/homework/homework3.md)
+<br>
 
 ****Due: 12-October**** <br>
-
 
 ## Read, Watch, Listen, Investigate
 ### Required Readings

@@ -24,10 +24,10 @@ I may use a virtual board during my lecture recordings to aid in the learning pr
 
 ****Due: 19-October**** <br>
 
-<li>Start on Homework #4 <br>
+<li>Start on Homework #4](https://github.com/captainarcher/cloud-management-course/blob/master/homework/homework4.md)
+<br>
 
-****Due: 26-October**** <br>
-
+****Due: 26-October****
 
 ## Read, Watch, Listen, Investigate
 ### Required Readings
