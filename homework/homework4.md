@@ -1,24 +1,29 @@
 # Homework 4: Cloud Architecture
 
-****This assignment is not ready for students****
 ## Prerequisites
-In order to complete this assignment, you must already have your Google Cloud Platform and Amazon Web Services accounts setup.  If you haven't done this yet, refer to the instructions located in Cougar Courses.  
-
-You must also complete Homework #1 and Homework #2 before starting this assignment.
+You will need to complete the work from Module 5 prior to working on this assignment.  Be sure to look at the examples provided.
 
 ## Objective
-Upon the completion of this assignment, you should be able to ...
+Upon the completion of this assignment, you should be able to compile a cloud architecture drawing using the hypothetical scenario below.
+
+## Hypothetical Scenario
+Coastal Biotech is a San Diego company that currently leases data center space in a colocation facility in Kearney Mesa and has ten physical servers for its diagnostic test analysis business.  The company is experiencing tremendous growth in business due to COVID-19 testing and needs to quickly expand its capacity 10x.  Your CIO would like you to create a cloud architecture drawing that highlights the Infrastructure as a Service (IaaS) services necessary in order to meet the company's growing diagnostic testing needs.  The CIO has prepared the following technology requirements to help guide you: <br>
+<li>2 Terabytes of object storage to start and a plan to scale up and down with business needs <br>
+<li>20 Virtual Machines for Databases <br>
+<li>Container infrastructure that scales up and down with testing needs <br>
+<li>Container management that is simple enough to be managed with the existing five person IT organization
+<li>Health data needs to be secured <br>
+<li>All credentials need to be centrally managed and secured <br>
+<li>The infrastructure needs to be deployed into two U.S. regions for business continuity purposes <br>
 
 ## Instructions
-TBD
-
-You will document your progress in a brief report that meets the requirements below:
+You will create a cloud architecture drawing and compile a brief narrative that meets the requirements below:
 <ul>
-  <li>MS Word or PDF document
-  <li>12-point font
-  <li>Single-spaced
-  <li>You must include a screenshot of each step in this assignment
-  <li>Minimum of 500 words
-  <li>Organized using an Introduction, Reflection, and Conclusion style
-  <li>Your reflection will be a discussion of your progress as you complete the homework, including describing any challenges, how you overcame any challenges, and what you learned on this assignment.
+  <li>MS Word or PDF document <br>
+  <li>12-point font <br>
+  <li>Single-spaced <br>
+  <li>You must include your cloud architecture drawing <br>
+  <li>Minimum of 250 words <br>
+  <li>Organized using an Introduction, Reflection, and Conclusion style <br>
+  <li>Your reflection will be a discussion of your progress as you complete the homework, including describing any challenges, how you overcame any challenges, and what you learned on this assignment. <br>
 </ul>
