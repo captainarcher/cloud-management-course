@@ -59,7 +59,7 @@ I may use a virtual board during my lecture recordings to aid in the learning pr
 [<li>Course Introduction](https://youtu.be/Og2KcfVLnd4)<br>
 [<li>Introduction to Cloud](https://youtu.be/gocHAaqAlSA)<br>
 [<li>Setting up your GCP Account]<br>
-[<li>Setting up your AWS Account]<br>
+[<li>Setting up your AWS Account](https://youtu.be/bvDEdwZ6Ows)<br>
 [<li>AWS and GCP Graphical Cloud Console Demo]<br>
 [<li>Provisioning Your First VM]
 
