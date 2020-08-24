@@ -2,7 +2,6 @@
 
 ## Learning Objectives
 
-<li>Understanding Networking Fundamentals
 <li>Identify the Enablement Technologies for Cloud-based systems
 <li>Understand the differences between and demonstrate how to use virtualization technologies
 <li>Understand and demonstrate how to use containers
