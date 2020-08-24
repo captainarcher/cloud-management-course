@@ -3,7 +3,7 @@
 
 ## Overview
 TBD
-
+Cloud Cost Management
 
 [Classroom Virtual Board](https://www.thomasu.me/boards/cloudmgmt-fall2020)
 
