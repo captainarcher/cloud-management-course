@@ -65,7 +65,7 @@ I may use a virtual board during my lecture recordings to aid in the learning pr
 [<li>Setting up your GCP Account](https://youtu.be/aPeyxqwfz0Q)<br>
 [<li>Setting up your AWS Account](https://youtu.be/bvDEdwZ6Ows)<br>
 [<li>AWS Graphical Console and Provisioning 1st VM Instance Demo](https://youtu.be/4cJmxIFm5aA)<br>
-[<li>GCP Graphical Console  and Provisioning 1st VM Instance Demo](https://youtu.be/T8cqbC7CnpQ)<br>
+[<li>GCP Graphical Console  and Provisioning 1st VM Instance Demo - also includes the SSH key and client setup for AWS](https://youtu.be/T8cqbC7CnpQ)<br>
 [<li>GCP Stop VM Demo](https://youtu.be/ap3cYytz8AA)<br>
 
 ### Optional Readings, Videos, and Tutorials
