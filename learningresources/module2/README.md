@@ -1,7 +1,6 @@
 # Module 2
 Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 <br>
-****The lecture links have not been posted yet.  Please check back later.****
 ## Overview
 This second module will introduce you to Linux and the command-line interface.  By the time that you finish this module, you should have basic proficiency using basic Linux command-line interfaces to perform tasks.
 
@@ -42,11 +41,7 @@ There are no required readings in Module 2.
 ### Lectures and Demos
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
 ****Individual Recordings****<br>
-[Introduction to the Command Line]<br>
-[Navigation and Managing Files]<br>
-[Editing Files]<br>
-[Process Management and Input/Output]<br>
-[Package Management]<br>
+[Introduction to the Command Line](https://youtu.be/4g1J4ScbGlE)<br>
 
 
 ## Optional Readings, Videos, Activities, and Tutorials
