@@ -1,5 +1,6 @@
 # Developing a Cloud Architecture
-
+Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
+<br>
 ## Introduction
 
 In order to determine the appropriate Cloud Architecture for your organization, you must first complete several activities - an audit of IT systems and processes, complete an IT inventory, and compile IT requirements.  You must also develop competency with diagramming software.

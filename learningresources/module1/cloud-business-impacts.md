@@ -1,5 +1,6 @@
 # Cloud Business Impacts
-
+Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
+<br>
 This unit starts with discussing the impact that Cloud-based technologies have had on businesses.  Next, the unit discusses how Cloud-based technologies have led to a democratization of technology for businesses.  Finally, the unit briefly mentions how Cloud-based technologies have changed business balance sheets.  
 
 ## General Impact

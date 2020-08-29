@@ -1,5 +1,6 @@
 # Module 15
-
+Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
+<br>
 ## Overview
 For the remainder of this course you should work on your project.  You are strongly encouraged to meet with Professor Underhill to review your current project status and solicit feedback.
 

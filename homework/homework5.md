@@ -1,4 +1,5 @@
 # Homework 5: Version Control Systems
+Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 
 ****This assignment is not ready for students****
 ## Prerequisites

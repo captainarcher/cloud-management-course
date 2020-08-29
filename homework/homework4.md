@@ -1,4 +1,5 @@
 # Homework 4: Cloud Architecture
+Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 
 ## Prerequisites
 You will need to complete the work from Module 5 prior to working on this assignment.  Be sure to look at the examples provided.

@@ -1,4 +1,5 @@
 # Homework 7: Cloud Automation Part 2
+Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 
 ****This assignment is not ready for students****
 ## Prerequisites

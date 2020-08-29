@@ -1,4 +1,6 @@
 # Module 4
+Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
+<br>
 ****The lecture links have not been posted yet.  Please check back later.****
 ****This module is not yet ready for students****
 

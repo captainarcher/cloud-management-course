@@ -1,3 +1,5 @@
+Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
+<br>
 # Introduction to Cloud
 
 This unit starts by defining cloud computing, explains the different service delivery and deployment models, and then differentiates between Cloud and traditional IT models.  Next, the unit discusses business impacts, financial models, and the basic capabilities common to cloud platforms.  Finally, the unit provides examples for how cloud-based technologies have transformed the IT job market.

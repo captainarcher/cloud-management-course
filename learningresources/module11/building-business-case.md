@@ -1,4 +1,6 @@
 # Building a Business Case
+Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
+<br>
 ****This material is not ready for students****
 
 

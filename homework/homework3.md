@@ -1,9 +1,11 @@
 # Homework 3: Cloud Security
+Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
+
 ## Prerequisites
 Homework #1 and #2 must be completed.
 
 ## Objective
-Upon the completion of this assignment, you should be able to ...
+Upon the completion of this assignment, you should be able to install Vault and use it for secrets management.
 
 ## Instruction
 

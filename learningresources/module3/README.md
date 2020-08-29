@@ -1,4 +1,6 @@
 # Module 3
+Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
+<br>
 ****The lecture links have not been posted yet.  Please check back later.****
 ## Overview
 This third module will introduce you to the Amazon Web Services (AWS) and Google Cloud Platform (GCP) Command-Line Interfaces.  By the time that you finish this module, you should have basic proficiency using the AWS and GCP command-line interfaces to perform tasks.

@@ -1,4 +1,6 @@
 # Module 10
+Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
+<br>
 ****This module is not ready for students yet****
 
 ## Overview

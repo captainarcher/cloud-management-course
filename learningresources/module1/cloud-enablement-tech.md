@@ -1,5 +1,6 @@
 # Cloud Enablement Technologies
-
+Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
+<br>
 ## Learning Objectives
 
 <li>Identify the Enablement Technologies for Cloud-based systems
