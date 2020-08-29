@@ -32,6 +32,9 @@ I may use a virtual board during my lecture recordings to aid in the learning pr
 
   * Start [Homework #1: Getting Started with Cloud Infrastructure](https://github.com/captainarcher/cloud-management-course/blob/master/homework/homework1.md)	****Due: 14-September****
 
+  * Recommended: Please make sure that you can open [CougarApps](https://cougarapps.csusm.edu/vpn/index.html).  This is critical if you are using a school-provided computer.
+  <br>
+
 ## Read, Watch, Listen, Investigate
 ### Required Readings
 [<li>Introduction to Cloud](https://github.com/captainarcher/cloud-management-course/tree/master/learningresources/module1/intro-to-cloud.md)<br>
