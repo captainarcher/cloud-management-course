@@ -28,7 +28,7 @@ You will document your progress in a brief report that meets the requirements be
 ###### Please be sure to review the explanatory, "walk-through" videos on my YouTube channel.
 
 ## Part 1: Google Cloud Platform (GCP)
-1.	Complete the [GCP Quickstart-Linux Tutorial](https:/cloud.google.com/compute/docs/quickstart-linux)
+1.	Complete the [GCP Quickstart-Linux Tutorial](https://cloud.google.com/compute/docs/quickstart-linux)
 2.	Power off your VM, until you are ready to begin Homework #2.  If you plan to immediately begin Homework #2, then you may leave your VM running.  You will need your VM for Homework #2, so do not terminate it.
 
 ## Part 2: Amazon Web Services (AWS)
