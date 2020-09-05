@@ -51,8 +51,6 @@ I may use a virtual board during my lecture recordings to aid in the learning pr
 [Installing the GCP Quickstart Cloud SDK]<br>
 [Using the GCP Quickstart Cloud SDK]<br>
 [Using the GCP Cloud Shell]<br>
-[Setting up SSH Keys on Mac]<br>
-[Setting up SSH Keys on Windows]<br>
 
 
 ## Optional Readings, Videos, Activities, and Tutorials
