@@ -46,6 +46,5 @@ There are no required readings in Module 2.
 
 ## Optional Readings, Videos, Activities, and Tutorials
 [<li>MIT Terminus Command Line Game](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)<br>
-[<li>The Linux Command Line Book](http://linuxcommand.org/tlcl.php)
-[<li>Using the Nano and Vim Editors](https://vimeo.com/317829595)<br>
+[<li>The Linux Command Line Book](http://linuxcommand.org/tlcl.php)<br>
 [<li>Linux Command Line Reference](http://linuxcommand.org)<br>
