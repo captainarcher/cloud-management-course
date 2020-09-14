@@ -45,10 +45,7 @@ I may use a virtual board during my lecture recordings to aid in the learning pr
 ### Lectures and Demos
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
 ****Individual Recordings****<br>
-[Introduction to the Cloud Command Line Interfaces]<br>
-[Installing and Using the AWS Command Line Interface]<br>
-[Installing and Using the GCP Quickstart Cloud SDK]<br>
-[Using the GCP Cloud Shell]<br>
+[Introduction to the Cloud Command Line Interfaces and Installation](https://youtu.be/Joz5WiDrcOM)<br>
 
 
 ## Optional Readings, Videos, Activities, and Tutorials
