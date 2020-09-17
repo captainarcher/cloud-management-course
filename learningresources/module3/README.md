@@ -1,7 +1,6 @@
 # Module 3
 Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 <br>
-****The lecture links have not been posted yet.  Please check back later.****
 ## Overview
 This third module will introduce you to the Amazon Web Services (AWS) and Google Cloud Platform (GCP) Command-Line Interfaces.  By the time that you finish this module, you should have basic understanding of how the AWS and GCP command-line interfaces (CLIs) may be used to perform tasks.  Note that you are not required to use the AWS/GCP CLIs for this course and there are no homework assignments that require that you use these.
 
@@ -45,7 +44,7 @@ I may use a virtual board during my lecture recordings to aid in the learning pr
 ### Lectures and Demos
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
 ****Individual Recordings****<br>
-[Introduction to the Cloud Command Line Interfaces and Installation](https://youtu.be/Joz5WiDrcOM)<br>
+[Introduction to the Cloud Command Line Interfaces and Installation - 16:27](https://youtu.be/Joz5WiDrcOM)<br>
 
 
 ## Optional Readings, Videos, Activities, and Tutorials
