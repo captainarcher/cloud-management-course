@@ -1,0 +1,19 @@
+# Identity Management and Networking
+Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
+<br>
+
+## Identity Management
+When we talk about Identity Management, this is a broad topic that encompasses machine authentication and authorization, machine to machine access, and human authentication and authorization.  For this course, we are going to focus on authentication and authorization from both machine and human perspectives. <br>
+
+[Explanation of Authentication \(AuthN\) vs. Authorization \(AuthZ\)](https://auth0.com/docs/authorization/authentication-and-authorization)<br>
+
+### Machine Authentication and Authorization
+Machine authentication and authorization involves machine to machine credentials, as opposed to credentials (i.e. username/password or keys) that you and I use to connect to a machine.  To handle machine authentication and authorization we can use cloud vendor specific tools such as AWS Secrets Manager, GCP Secret Management, and Azure Key Vault.  This is a very well-supported approach for a single cloud environment, but does not work well for multi-cloud.  In addition, utilizing the cloud vendor specific tools locks your organization into a single vendor.  Imagine betting your entire business on a particular cloud vendor and then receiving a notice that the pricing is going to substantially increase on a specific future date.  Such a change could be detrimental to your organization and if you utilize a single vendor solution to IAM, you would either need to undertake a costly and time consuming migration, or cough up the extra money.
+
+There is a different approach - utilizing a multi-cloud tool to handle machine authentication and authorization.  [HashiCorp Vault](https://www.vaultproject.io/) is an open-source tool with an enterprise edition that is built for multi-cloud workloads.  Since this is an open-source tool, it is free for our class to test drive it.  Your next homework assignment will have you build a Vault instance and do a basic development configuration using tutorials.  Further details are in Module 4.
+
+### Human Authentication and authorization
+Human authentication \(AuthN\) and authorization \(AuthZ\) are what we typically think of when we use the terminology "Identity and Access Management".  So far, we have used AuthN to connect to our AWS and GCP Consoles as well as our virtual machines.  For the AWS and GCP consoles, you have used username and password based authentication.  For your VM, you used a username and public key encryption \(PKE\) or asymmetric cryptography to authenticate.  In this module, you are encouraged to explore third party AuthN/AuthZ solutions such as [Okta](https://www.okta.com/) and [Auth0](https://auth0.com/).  Although we won't use these in this course, these solutions are used by many organizations.  In addition to these third-party solutions, you should explore the AWS IAM, GCP IAM, and Azure Identity materials provided in Module 4.  Note that you will not be able to use AWS IAM in your AWS Educate account due to platform restrictions.
+
+## Networking
+Historically, when we talk about networking, hardware solutions come to mind.  With the cloud, software defined networking quickly rose to dominate the marketplace.  [Software defined networking](https://www.opennetworking.org/sdn-definition/) is when we decouple the network control from network forwarding, to enable software-based controls, rather than physical reconfigurations.  Software-based controls enable us to dynamically build and reconfigure networks to meet rapidly changing requirements and is a key enabler of cloud technologies.  In the past, if we wanted to build a new network or reconfigure an existing network, we would need "boots on the ground" to physically re-cable and move hardware.
