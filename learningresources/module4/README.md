@@ -2,7 +2,6 @@
 Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 <br>
 ****The lecture links have not been posted yet.  Please check back on Monday 9/21.****
-****This module is not yet ready for students.  Please check back on Monday 9/21.****
 <br>
 <br>
 If you struggled with Homework 1 or 2, please come to the Q&A or Tutoring sessions.  I want to help you succeed in the course, but I can only do that if you ask for help early in the course.
@@ -38,12 +37,7 @@ Submit Homework #2<br>
 
 ## Read, Watch, Listen, Investigate
 ### Required Readings
-To be posted<br>
-Add materials for Auth0, Okta, etc.<br>
-[Authentication]<br>
-[Authorization]<br>
-[Secrets Management]<br>
-[Networking]<br>
+[<li>Identity and Networking](https://github.com/captainarcher/cloud-management-course/blob/master/learningresources/module4/identityandnetworking.md)<br>
 [<li>The Journey to Cloud Networking Blog - AWS](https://aws.amazon.com/blogs/architecture/the-journey-to-cloud-networking)<br>
 [<li>Introduction to AWS Virtual Private Cloud or VPC](https://aws.amazon.com/vpc/)<br>
 [<li>Getting Started with AWS VPC](https://aws.amazon.com/vpc/getting-started/)<br>
@@ -53,11 +47,6 @@ Add materials for Auth0, Okta, etc.<br>
 [<li>What is HashiCorp Vault?](https://www.vaultproject.io/docs/what-is-vault)<br>
 
 ### Required Videos
-To be posted<br>
-[Authentication]<br>
-[Authorization]<br>
-[Secrets Management]<br>
-[Networking]<br>
 [<li>Introduction to AWS IAM - 2:15](https://www.youtube.com/watch?v=Ul6FW4UANGc)<br>
 [<li>Introduction to GCP IAM - 2:01](https://www.youtube.com/watch?v=NPs_-Y5nFgE)<br>
 [<li>Getting Started with GCP IAM - 3:48](https://www.youtube.com/watch?v=O_O5Hb1bJyw)<br>
@@ -70,7 +59,7 @@ To be posted<br>
 ### Lectures and Demos
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
 ****Individual Recordings****<br>
-To be posted
+lecture o be posted
 
 ## Optional Readings, Videos, Activities, and Tutorials
 [<li>GCP Cloud IAM Identity and Authorization from the Google Cloud NEXT Conference - 33:35](https://www.youtube.com/watch?v=L5_GyNtMvbg)<br>
