@@ -59,7 +59,8 @@ Submit Homework #2<br>
 ### Lectures and Demos
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
 ****Individual Recordings****<br>
-lecture o be posted
+lecture to be posted
+]Q&A Session from 9/21 - Homework #2 Walkthrough](https://youtu.be/2jJ0jWEOJaQ)<br>
 
 ## Optional Readings, Videos, Activities, and Tutorials
 [<li>GCP Cloud IAM Identity and Authorization from the Google Cloud NEXT Conference - 33:35](https://www.youtube.com/watch?v=L5_GyNtMvbg)<br>
