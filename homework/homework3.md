@@ -1,5 +1,6 @@
 # Homework 3: Cloud Security
 Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
+****This assignment is not ready for students****
 
 ## Prerequisites
 Homework #1 and #2 must be completed.

@@ -1,7 +1,7 @@
 # Module 4
 Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 <br>
-****The lecture links have not been posted yet.  Please check back on Monday 9/21.****
+****The lecture links have not been posted yet.  Please check back on the weekend of September 26th.****
 <br>
 <br>
 If you struggled with Homework 1 or 2, please come to the Q&A or Tutoring sessions.  I want to help you succeed in the course, but I can only do that if you ask for help early in the course.
