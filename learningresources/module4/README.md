@@ -59,7 +59,7 @@ Submit Homework #2<br>
 ### Lectures and Demos
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
 ****Individual Recordings****<br>
-lecture to be posted<br>
+There is no professor lecture this week to allow students to catch up on the existing material.  If you are caught up, please watch the vendor videos above and read the materials provided.  The next lecture will be in Module 5 and will cover the material from this module as well.<br>
 [Q&A Session from 9/21 - Homework #2 Walkthrough](https://youtu.be/2jJ0jWEOJaQ)<br>
 
 ## Optional Readings, Videos, Activities, and Tutorials
