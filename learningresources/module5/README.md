@@ -64,7 +64,7 @@ To be posted<br>
 ### Lectures and Demos
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
 ****Individual Recordings****<br>
-[Module 4 Video](https://youtu.be/00wOpMWUcdI)<br>
+[Module 4 Video](https://youtu.be/8aD9cLCeQXw)<br>
 [Module 5 Video]coming soon<br>
 
 ## Optional Readings, Videos, Activities, and Tutorials
