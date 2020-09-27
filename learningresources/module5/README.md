@@ -1,7 +1,7 @@
 # Module 5
 Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 <br>
-****This module is not ready for students yet****
+The lectures will be posted by EOD Monday 9/28
 
 ## Overview
 This fifth module will introduce you to source code repositories and cloud automation.  We will also discuss the role of a cloud architect and walk through various examples of architectures.  By the time that you finish this module, you should have a good understanding of the purpose of source code repositories and how automation can streamline cloud management.  You will also be able to prepare a cloud architecture design diagram from business requirements.  
@@ -64,7 +64,8 @@ To be posted<br>
 ### Lectures and Demos
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
 ****Individual Recordings****<br>
-To be posted
+[Module 4 Video](https://youtu.be/00wOpMWUcdI)<br>
+[Module 5 Video]coming soon<br>
 
 ## Optional Readings, Videos, Activities, and Tutorials
 [<li>Optional: Upload a Project to GitHub - 39:00](https://lab.github.com/githubtraining/uploading-your-project-to-github)<br><br>

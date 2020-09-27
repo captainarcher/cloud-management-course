@@ -1,7 +1,7 @@
 # Module 4
 Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 <br>
-****The lecture links have not been posted yet.  Please check back on the weekend of September 26th.****
+***
 <br>
 <br>
 If you struggled with Homework 1 or 2, please come to the Q&A or Tutoring sessions.  I want to help you succeed in the course, but I can only do that if you ask for help early in the course.
@@ -61,6 +61,7 @@ Submit Homework #2<br>
 ****Individual Recordings****<br>
 There is no professor lecture this week to allow students to catch up on the existing material.  If you are caught up, please watch the vendor videos above and read the materials provided.  The next lecture will be in Module 5 and will cover the material from this module as well.<br>
 [Q&A Session from 9/21 - Homework #2 Walkthrough](https://youtu.be/2jJ0jWEOJaQ)<br>
+[Module 4 Lecture](https://youtu.be/00wOpMWUcdI)<br>
 
 ## Optional Readings, Videos, Activities, and Tutorials
 [<li>GCP Cloud IAM Identity and Authorization from the Google Cloud NEXT Conference - 33:35](https://www.youtube.com/watch?v=L5_GyNtMvbg)<br>
