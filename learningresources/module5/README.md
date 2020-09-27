@@ -30,8 +30,10 @@ I may use a virtual board during my lecture recordings to aid in the learning pr
 
 ## Resources, Assignments and Due Dates
 
-<li>Sign up for your free [GitHub Student Developer Pack](https://education.github.com/pack)<br>
-****Due: 5-October**** <br>
+<li>Sign up for your free [GitHub Student Developer Pack](https://education.github.com/pack)
+<br>
+****Due: 5-October****
+<br>
 
 [<li>Complete the ungraded GitHub Introduction Learning Lab - 59:00](https://lab.github.com/githubtraining/introduction-to-github). If you need help you can post on the [GitHub Community Forum](https://github.community/t5/GitHub-Learning-Lab/bd-p/learn), in our Microsoft Teams room, or attend the Group Tutoring session on Wednesday evenings.<br>
 ****Due: 12-October****<br>
@@ -51,12 +53,10 @@ I may use a virtual board during my lecture recordings to aid in the learning pr
 
 ## Read, Watch, Listen, Investigate
 ### Required Readings
-To be posted<br>
 [<li>Cloud Architecture](https://github.com/captainarcher/cloud-management-course/tree/master/learningresources/module5/cloud-architecture.md)<br>
 [<li>Introduction to Terraform](https://www.terraform.io/intro/index.html)<br>
 
 ### Required Videos
-To be posted<br>
 [<li>Introduction to GitHub - 21:26](https://youtu.be/sz6zfrQpCQg)<br>
 [<li>GitHub Introduction Learning Lab Video](https://youtu.be/sz6zfrQpCQg)<br>
 
