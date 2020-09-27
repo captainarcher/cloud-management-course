@@ -30,8 +30,7 @@ I may use a virtual board during my lecture recordings to aid in the learning pr
 
 ## Resources, Assignments and Due Dates
 
-<li>Sign up for your free [GitHub Student Developer Pack](https://education.github.com/pack)
-<br>
+[<li>Sign up for your free GitHub Student Developer Pack](https://education.github.com/pack)<br>
 ****Due: 5-October****
 <br>
 
@@ -65,7 +64,7 @@ I may use a virtual board during my lecture recordings to aid in the learning pr
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
 ****Individual Recordings****<br>
 [Module 4 Video](https://youtu.be/8aD9cLCeQXw)<br>
-[Module 5 Video]coming soon<br>
+[Module 5 Video](https://youtu.be/Pvle61GctDc)<br>
 
 ## Optional Readings, Videos, Activities, and Tutorials
 [<li>Optional: Upload a Project to GitHub - 39:00](https://lab.github.com/githubtraining/uploading-your-project-to-github)<br><br>
