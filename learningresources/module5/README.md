@@ -35,7 +35,7 @@ I may use a virtual board during my lecture recordings to aid in the learning pr
 ****Due: 5-October****
 <br>
 
-[<li>Complete the ungraded GitHub Introduction Learning Lab - 59:00](https://lab.github.com/githubtraining/introduction-to-github). If you need help you can post on the [GitHub Community Forum](https://github.community/t5/GitHub-Learning-Lab/bd-p/learn), in our Microsoft Teams room, or attend the Group Tutoring session on Wednesday evenings.<br>
+[<li>Optional, but HIGHLY ENCOURAGED.  Complete the ungraded GitHub Introduction Learning Lab - 59:00](https://lab.github.com/githubtraining/introduction-to-github). If you need help you can post on the [GitHub Community Forum](https://github.community/t5/GitHub-Learning-Lab/bd-p/learn), in our Microsoft Teams room, or attend the Group Tutoring session on Wednesday evenings.<br>
 ****Due: 12-October****<br>
 
 <li>Review the Materials under the Read, Watch, Listen, Investigate Activity<br>
