@@ -63,7 +63,7 @@ I may use a virtual board during my lecture recordings to aid in the learning pr
 ### Lectures and Demos
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
 ****Individual Recordings****<br>
-[Module 4 Video](https://youtu.be/8aD9cLCeQXw)<br>
+[Module 4 Video](https://youtu.be/FGC9Hv23LsU)<br>
 [Module 5 Video](https://youtu.be/Pvle61GctDc)<br>
 
 ## Optional Readings, Videos, Activities, and Tutorials
