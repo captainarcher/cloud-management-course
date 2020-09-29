@@ -25,7 +25,9 @@ In this assignment you will complete the [Getting Started with Vault](https://le
   </ul>
 
   Notes:<br>
-  1) Use the DEV mode when starting Vault.<br>
+  0) If you are missing the apt-get-repository command on Debian/Ubuntu, then run this: sudo apt-get install software-properties-common
+<br>
+1) Use the DEV mode when starting Vault.<br>
   2) You will skip the Dynamic Secrets engine lesson.  AWS Educate does not support IAM.<br>
   3) You will skip the Secrets Engines lesson.  This is an advanced topic.<br>
   4) You will skip the HTTP APIs lesson.<br>
