@@ -19,7 +19,7 @@ Coastal Biotech is a San Diego company that currently leases data center space i
 <li>The infrastructure needs to be deployed into two U.S. regions for business continuity purposes <br>
 
 ## Instructions
-You will create a cloud architecture drawing and compile a brief narrative that meets the requirements below:
+You will create a cloud architecture drawing using some sort of diagramming software (LucidChart is recommended if you plan to use GCP and AWS.  CloudCraft is recommended if you plan to only use AWS.) and compile a brief narrative that meets the requirements below:
 <ul>
   <li>MS Word or PDF document <br>
   <li>12-point font <br>
