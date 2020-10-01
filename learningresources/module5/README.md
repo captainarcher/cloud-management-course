@@ -66,6 +66,7 @@ I may use a virtual board during my lecture recordings to aid in the learning pr
 [Module 4 Video](https://youtu.be/FGC9Hv23LsU)<br>
 [Module 5 Video](https://youtu.be/Pvle61GctDc)<br>
 [Homework 3 Walkthrough Video](https://youtu.be/xUPAUuAg2u0)<br>
+[Homework 4 Walkthrough Video](https://youtu.be/ThN5uLZa_DI)<br>
 
 ## Optional Readings, Videos, Activities, and Tutorials
 [<li>Optional: Upload a Project to GitHub - 39:00](https://lab.github.com/githubtraining/uploading-your-project-to-github)<br><br>
