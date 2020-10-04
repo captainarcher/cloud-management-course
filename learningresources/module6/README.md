@@ -36,7 +36,7 @@ Infrastructure as Code Tools like Terraform are used to provision new cloud infr
 
 There are a lot of materials to review this week.  It's okay if you spread these out over the next two weeks.
 
-Before getting into the specifics of Terraform, you should watch [this video on Mutable vs Immutable Infrastructure](https://www.youtube.com/watch?v=II4PFe9BbmE).  With modern cloud platforms, we build immutable infrastructure, which is vastly different than the traditional datacenter infrastructure that you may be familiar with.<br>
+Before getting into the specifics of Terraform, you should watch [this video on Mutable vs Immutable Infrastructure - 11:39](https://www.youtube.com/watch?v=II4PFe9BbmE).  With modern cloud platforms, we build immutable infrastructure, which is vastly different than the traditional datacenter infrastructure that you may be familiar with.<br>
 
 #### Terraform
 [Introduction to Terraform - 18:38](https://www.youtube.com/watch?v=h970ZBgKINg)
