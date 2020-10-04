@@ -53,9 +53,9 @@ Another type of automation tool, such as Zapier, enables you to chain multiple S
 ### Required Hands-On Practice Exercises
 You do **NOT** need to turn these in for a grade, but you **DO** need to do these for practice.  If you are struggling, please come to one of the Q&A or Tutoring sessions.<br>
 
-If you have chosen to work with Google Cloud Platform, then do the nine (9) [Terraform GCP tutorials](https://learn.hashicorp.com/collections/terraform/gcp-get-started).<br>
+If you have chosen to work with Google Cloud Platform, then do the nine (9) [Terraform GCP Getting Started tutorials](https://learn.hashicorp.com/collections/terraform/gcp-get-started).<br>
 
-If you have chosen to work with Amazon Web Services, then do the eight (8) [Terraform AWS tutorials](https://learn.hashicorp.com/collections/terraform/aws-get-started).  You may also optionally do these [Terraform Configuration tutorial for AWS](https://learn.hashicorp.com/collections/terraform/configuration-language) and [Terraform Modules tutorial for AWS](https://learn.hashicorp.com/collections/terraform/modules) exercises.<br>
+If you have chosen to work with Amazon Web Services, then do the eight (8) [Terraform AWS Getting Started tutorials](https://learn.hashicorp.com/collections/terraform/aws-get-started).  You may also optionally do these [Terraform Configuration tutorial for AWS](https://learn.hashicorp.com/collections/terraform/configuration-language) and [Terraform Modules tutorial for AWS](https://learn.hashicorp.com/collections/terraform/modules) exercises.<br>
 
 ### Lectures and Demos
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
