@@ -51,7 +51,7 @@ Another type of automation tool, such as Zapier, enables you to chain multiple S
 [Introduction to Terraform](https://www.youtube.com/watch?v=h970ZBgKINg)<br>
 
 ### Required Hands-On Practice Exercises
-You do **NOT** need to turn these in for a grade, but you **DO** need to do these for practice.  If you are struggling, please come to one of the Q&A or Tutoring sessions.<br>
+You do **NOT** need to turn these in for a grade, but you **DO** need to do these for practice.  You will use either your GCP or AWS environment.  If you are struggling, please come to one of the Q&A or Tutoring sessions.  If you are unable to attend, please watch the recorded videos before seeking a 1:1 session.  Most of the time, the videos will help you resolve the issue.<br>
 
 If you have chosen to work with Google Cloud Platform, then do the nine (9) [Terraform GCP Getting Started tutorials](https://learn.hashicorp.com/collections/terraform/gcp-get-started).<br>
 
