@@ -27,7 +27,6 @@ This sixth module will continue to expose you to cloud automation.  By the time 
 
 ## Read, Watch, Listen, Investigate
 ### Required Readings
-
 #### Introduction to Cloud Automation Technologies
 
 There are a number of different Cloud Automation Technologies that you may encounter in your career.  The good news is that these tools have robust development communities, which leads to continuous innovation and feature enhancements.  In this course, we focus on HashiCorp Terraform, which is an open-source tool.
@@ -48,13 +47,18 @@ Another type of automation tool, such as Zapier, enables you to chain multiple S
 [Getting Started with Zapier](https://www.youtube.com/watch?v=v98d2tH3wfc&utm)
 
 ### Required Videos
-To be posted<br>
+[Mutable vs Immutable Infrastructure](https://www.youtube.com/watch?v=II4PFe9BbmE)<br>
+[Introduction to Terraform](https://www.youtube.com/watch?v=h970ZBgKINg)<br>
+
+### Required Hands-On Practice Exercises
 
 
 ### Lectures and Demos
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
 ****Individual Recordings****<br>
-To be posted
+To be posted<br>
+Terraform Install Demo<br>
+Resource Creation Demo<br>
 
 ## Optional Readings, Videos, Activities, and Tutorials
 [<li>Continuous Delivery Principles](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
