@@ -63,7 +63,7 @@ If you have chosen to work with Amazon Web Services, then do the eight (8) [Terr
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
 ****Individual Recordings****<br>
 To be posted<br>
-Introduction to Automation Technologies lecture<br>
+[Introduction to Automation Technologies lecture](https://youtu.be/pBAbid6vhJM)<br>
 Terraform Install Demo<br>
 Resource Creation Demo<br>
 
