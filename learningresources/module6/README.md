@@ -1,7 +1,6 @@
 # Module 6
 Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 <br>
-You are welcome to begin working on the activities in this module.  The lecture and demos will be posted Monday night.
 
 ## Overview
 This sixth module will continue to expose you to cloud automation.  By the time that you finish this module, you should be able to utilize cloud automation technologies to manage simple cloud infrastructure resources.
@@ -66,6 +65,7 @@ To be posted<br>
 [Introduction to Automation Technologies lecture](https://youtu.be/jhGwFXPupKY)<br>
 Terraform Install Demo<br>
 Resource Creation Demo<br>
+The above demos will be posted over the next week.
 
 ## Optional Readings, Videos, Activities, and Tutorials
 [<li>Continuous Delivery Principles](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
