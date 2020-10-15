@@ -32,4 +32,5 @@ None - Catch-up + Module 6 material
 
 ### Lectures and Demos
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
-No lecture this week.
+
+[Terraform Tutorial Walkthrough](https://youtu.be/jHWCCiXRqh8)<br>

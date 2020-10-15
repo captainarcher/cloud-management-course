@@ -63,9 +63,7 @@ If you have chosen to work with Amazon Web Services, then do the eight (8) [Terr
 ****Individual Recordings****<br>
 To be posted<br>
 [Introduction to Automation Technologies lecture](https://youtu.be/jhGwFXPupKY)<br>
-Terraform Install Demo<br>
-Resource Creation Demo<br>
-The above demos will be posted over the next week.
+[Terraform Tutorial Walkthrough](https://youtu.be/jHWCCiXRqh8)<br>
 
 ## Optional Readings, Videos, Activities, and Tutorials
 [<li>Continuous Delivery Principles](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
