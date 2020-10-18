@@ -24,7 +24,7 @@ Make sure that you have completed the prerequisites before starting this assignm
 1. Open GitHub.com
 2. Login using your GitHub credentials
 3. Follow along with the GitHub Repository Creation Video (coming soon) to create a repository for your homework and a second repository for your project.  Name the homework repository as (without the quotes and with no spaces) "Your_Name_Homework5".  Name the project repository as (without the quotes and with no spaces) "Your_Name_MIS484-6_Project".
-4. Follow along with the GitHub Repository Sharing Video (coming soon) to provide Professor Underhill's GitHub account (captainarcher) with access to your project repository.  <b>Note: Professor Underhill does not need access to your homework repository.
+4. Follow along with the GitHub Repository Sharing Video (coming soon) to provide Professor Underhill's GitHub account (captainarcher) with access to your project repository.  <b>Note: Professor Underhill does not need access to your homework repository</b>.
 5. Follow along with the GitHub on Linux VM set up video (coming soon).
 6. Follow along with the Pull GitHub Repositories down to Linux VM video (coming soon)
 7. Follow along with the Edit Files in GitHub Repository video (coming soon)
