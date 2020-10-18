@@ -7,11 +7,6 @@ The lectures will be posted by EOD Monday 9/28
 This fifth module will introduce you to source code repositories and cloud automation.  We will also discuss the role of a cloud architect and walk through various examples of architectures.  By the time that you finish this module, you should have a good understanding of the purpose of source code repositories and how automation can streamline cloud management.  You will also be able to prepare a cloud architecture design diagram from business requirements.  
 
 
-[Classroom Virtual Board](https://www.thomasu.me/boards/cloudmgmt-fall2020)
-
-****About the Virtual Board Feature:****
-I may use a virtual board during my lecture recordings to aid in the learning process.  The link above will generate a unique instance of the board for each student, so you are welcome to write notes on the board and only you will see them.  If you wish to save your notes, you must use the "Export Board" link at the top of the board or take a screenshot of the content.  A unique board is generated each time that you visit the board link.  A new page will be added to the board for each Module in the course.<br>
-
 
 ## Learning Outcomes (SLOs)
 <li>Be able to explain how source code repositories work<br>
