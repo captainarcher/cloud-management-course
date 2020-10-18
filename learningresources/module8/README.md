@@ -4,7 +4,7 @@ Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 ****This module is not ready for students yet****
 
 ## Overview
-In this module we will cover Version Control Systems and Cloud Cost Management
+In this module we will cover Version Control Systems and Cloud Cost Management.
 
 ## Learning Outcomes (SLOs)
 <ul>
@@ -33,11 +33,9 @@ In this module we will cover Version Control Systems and Cloud Cost Management
 
 ## Read, Watch, Listen, Investigate
 ### Required Readings
-To be posted<br>
 #### Version Control Systems
 <ul>
-<li>Introduction to Git
-<li>Introduction to GitHub
+<li>[Introduction to Git and GitHub](https://guides.github.com/introduction/git-handbook/)
 <li>[Repository Creation](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-new-repository)
 <li>[Granting Collaborator Access](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)
 <li>[Installing Git on Linux](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
@@ -47,10 +45,10 @@ To be posted<br>
 
 #### Cost Management
 <ul>
-<li>[AWS Cost Calculator]
-<li>[Azure Cost Calculator]
-<li>[GCP Cost Calculator]
-<li>[Generic Cost Calculator]
+<li>[AWS Cost Calculator](https://calculator.aws/)
+<li>[Azure Cost Calculator](https://www.google.com/aclk?sa=l&ai=DChcSEwi_26jn4b7sAhXiCX0KHXXgDv8YABADGgJwdg&ae=2&sig=AOD64_1f7L5WTvb5WPZuMcIN6iWR6ojl5Q&q&adurl&ved=2ahUKEwj0maDn4b7sAhWSFzQIHQQkC3MQ0Qx6BAgHEAE)
+<li>[GCP Cost Calculator](https://cloud.google.com/products/calculator)
+<li>[Generic Cost Calculator](https://calculator.unigma.com/#/instances)
 <li>Optional: Terraform provides cost estimation as part of enterprise offerings, but this is not in the open-source version that we use in this class.  Further details [here](https://www.terraform.io/docs/cloud/cost-estimation/index.html), if you are interested in reading about the feature.
 </ul>
 
