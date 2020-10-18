@@ -4,16 +4,18 @@ Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 The project instructions will be added soon.  
 
 ## General instructions
-This project is designed to give you a practical business problem to solve using what you have learned in this course.  This immersive learning activity will prepare you for a career in the MIS field and you are encouraged to use this as an example for your portfolio.  You will need to conduct analysis of the business problem, perform independent Internet research to see how similar problems have been solved by others, and then complete five different types of assignments.  These assignments range from an executive level presentation of a proposed solution, an architecture drawing of the proposed solution, and then three technical implementations (automation, infrastructure, and security).
+This project is designed to give you a practical business problem to solve using what you have learned in this course.  This immersive learning activity will prepare you for a career in the MIS field and you are encouraged to use this as an example for your portfolio.  You will need to conduct analysis of the business problem, perform independent Internet research to see how similar problems have been solved by others, and then complete five different types of assignments.  These assignments range from an executive level presentation of a proposed solution, an architecture drawing of the proposed solution, and then three technical implementations (automation, infrastructure, and security).  
 
 ## Submission Instructions
 In addition to submitting to the box under Module 15 in Cougar Courses, all Terraform and Vault configurations need to be committed to your private GitHub project repository (Your_Name_MIS484-6_Project) that you shared with Professor Underhill in Homework #5.  DO NOT use a Public GitHub repository!
 
 ## Hypothetical
-CougarFlix is the largest video streaming service for college-aged students.  The company currently runs its own IT infrastructure in a Mira Mesa data center and a disaster recovery facility in Virginia.  The company’s video production facilities are in a large skyscraper in downtown San Marcos, which has been closed due to COVID-19.  After seeing the success of the Saturday Night Live @ Home series, the company has decided to move all production to the homes of employees.  This poses a problem, because the existing IT infrastructure is not adequate for a distributed workforce let alone video production and distribution.  Your manager, the VP of IT, has asked that you put together a proposal for the company to shift all IT infrastructure to cloud-based providers.  Your proposal will consist of 5-7 slides and a 1-minute “elevator pitch” video that highlights the advantages of cloud adoption.  In addition, you will design and implement a pilot cloud deployment for the organization’s corporate website using common automation and security software.  You may not simply propose using a SaaS (Software as a Service)-based service like WordPress.com, Wix, or Squarespace.  You must propose using either Amazon Web Services (AWS) or Google Cloud Platform (GCP) as an Infrastructure as a Service (IaaS) platform for this project.   <br>
+CougarFlix is the largest video streaming service for college-aged students.  The company currently runs its own IT infrastructure in a Mira Mesa data center and a disaster recovery facility in Virginia.  The company’s video production facilities are in a large skyscraper in downtown San Marcos, which has been closed due to COVID-19.  After seeing the success of the Saturday Night Live @ Home series, the company has decided to move all production to the homes of employees.  This poses a problem, because the existing IT infrastructure is not adequate for a distributed workforce let alone video production and distribution.  Your manager, the VP of IT, has asked that you put together a proposal for the company to shift all IT infrastructure to cloud-based providers.  Your proposal will consist of 5-7 slides and a 1-minute “elevator pitch” video that highlights the advantages and disadvantages of cloud adoption.  To counteract the disadvantages, you should discuss how your proposal mitigates any disadvantages.  In addition, you will design and implement a pilot cloud deployment for the organization’s corporate website using common automation and security software discussed in this course.  You may not simply propose using a SaaS (Software as a Service)-based service like WordPress.com, Wix, or Squarespace.  You must propose using either Amazon Web Services (AWS) or Google Cloud Platform (GCP) as an Infrastructure as a Service (IaaS) platform for this project.   <br>
 
-## Executive Presentation
-You will create an executive presentation slide deck in PowerPoint format (5-7 slides) and separately record a 1-minute “elevator pitch” video (YouTube or Vimeo) pitching your proposed Cloud Adoption plan to executive leadership.   
+## Executive Presentation (20% of your project grade - 7 points)
+You will create an executive presentation slide deck in PowerPoint format (5-7 slides) and separately record a 1-minute “elevator pitch” video (YouTube or Vimeo) pitching your proposed Cloud Adoption plan to executive leadership.
+
+Your cloud adoption plan should address the hypothetical scenario earlier.  
 
 Videos exceeding 1-minute or under 1-minute will be penalized as follows:
 <li>Less than 30 seconds (No credit)
@@ -26,10 +28,24 @@ Videos exceeding 1-minute or under 1-minute will be penalized as follows:
 <li>121-180 seconds (-75% penalty)
 <li>Greater than 181 seconds (No credit)
 
-## Cloud Architecture Design Drawing
+## Cloud Architecture Design Drawing (20% of your project grade - 7 points)
+You will use use LucidChart (free for students) or CloudCraft.co (free plan) to create an architecture design drawing for the organization's website infrastructure.  It doesn't matter what you use for the website, but one approach would be to use the self-hosted version of WordPress from WordPress.org in either GCP or AWS.
 
-## Cloud Automation Deployment
+A sample architecture for the self-hosted WordPress in AWS might include: <br>
+<li>Amazon Relational Database Service (RDS) or an EC2 instance running a database such as MySQL or MariaDB
+<li>Amazon S3 Object Storage
+<li>Amazon Virtual Private Cloud (VPC) to segment networks into Internet accessible, internal only, and highly-restricted
+<li>Amazon EC2 Virtual Machines running WordPress
+<li>Amazon Elastic Load Balancers in front of the web servers running a web server such as nginx or Apache and WordPress<br><br>
 
-## Cloud Infrastructure Deployment
+A sample architecture for the self-hosted WordPress in GCP might include: <br>
+<li>GCP Compute instance running MySQL or MariaDB databases
+<li>GCP Compute instances (VMs or Containers) running a web server such as nginx or Apache and WordPress
+<li>Network segmentation into Internet accessible, internal only, and highly-restricted
+<li>Load balancers
+
+## Cloud Automation Deployment (20% of your project grade - 7 points)
+
+## Cloud Infrastructure Deployment (20% of your project grade - 7 points)
 Your infrastructure deployment will be based on your architecture drawing.
-## Cloud Security Deployment
+## Cloud Security Deployment (20% of your project grade - 7 points)
