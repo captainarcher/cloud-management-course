@@ -71,7 +71,7 @@ You will deploy Vault to either GCP or AWS and use it to store and manage creden
 
 You should include your Vault configuration files in your GitHub private project repository.
 
-You will also write a reflection paper of 500 words that explains how you would implement Vault in a real-world scenario to manage credentials.
+You will also write a reflection paper of 500 words that explains how you would implement Vault in a real-world scenario to manage credentials.  You should talk about your own implementation as well.  Your paper needs to have screenshots of the work that you're doing in Vault.
 
 Optionally, you may wish to manage credentials using the tools/plugins below for extra credit:
 
