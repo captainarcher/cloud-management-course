@@ -4,7 +4,7 @@ Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 The project instructions will be added soon.  
 
 ## General instructions
-This project is designed to give you a practical business problem to solve using what you have learned in this course.  You will need to conduct analysis of the business problem, perform independent Internet research to see how similar problems have been solved by others, and then complete five different types of assignments.  These assignments range from an executive level presentation of a proposed solution, an architecture drawing of the proposed solution, and then three technical implementations.
+This project is designed to give you a practical business problem to solve using what you have learned in this course.  This immersive learning activity will prepare you for a career in the MIS field and you are encouraged to use this as an example for your portfolio.  You will need to conduct analysis of the business problem, perform independent Internet research to see how similar problems have been solved by others, and then complete five different types of assignments.  These assignments range from an executive level presentation of a proposed solution, an architecture drawing of the proposed solution, and then three technical implementations (automation, infrastructure, and security).
 
 ## Submission Instructions
 In addition to submitting to the box under Module 15 in Cougar Courses, all Terraform and Vault configurations need to be committed to your private GitHub project repository (Your_Name_MIS484-6_Project) that you shared with Professor Underhill in Homework #5.  DO NOT use a Public GitHub repository!
