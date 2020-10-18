@@ -61,9 +61,20 @@ You should use Terraform Plan to test changes before doing a Terraform Apply.
 Your deliverables for this portion of the assignment will be:<br>
 <li>Copies of all Terraform files in your GitHub Repository
 <li>Successful Terraform Apply (be sure to capture your screen after the apply or output to a log file and include that in your paper
-<li>Reflection Paper that includes the following: screenshots or text from logged successful Terraform Apply commands and brief narrative (250-500 words) of what you accomplished along with how you overcame any challenges during this portion of the project.<br>
+<li>Reflection Paper that includes the following: screenshots or text from logged successful Terraform Apply commands and brief narrative (500 words) of what you accomplished along with how you overcame any challenges during this portion of the project.<br>
 
 ## Cloud Infrastructure Deployment (20% of your project grade - 7 points)
-Upon completion of the automation portion of this assignment use Terraform Show and the Cloud Console to capture a picture of what your cloud infrastructure looks like.  Write a brief narrative (250-500 words) that describes all of your infrastructure and be sure to either include the output of terraform show and screenshots from your cloud console.<br>
+Upon completion of the automation portion of this assignment use Terraform Show and the Cloud Console to capture a picture of what your cloud infrastructure looks like.  Write a brief narrative (500 words) that describes all of your infrastructure and be sure to either include the output of terraform show and screenshots from your cloud console.<br>
 
 ## Cloud Security Deployment (20% of your project grade - 7 points)
+You will deploy Vault to either GCP or AWS and use it to store and manage credentials.  The basic requirement to get a grade for this portion is to be able to create sample credentials in Vault.
+
+You should include your Vault configuration files in your GitHub private project repository.
+
+You will also write a reflection paper of 500 words that explains how you would implement Vault in a real-world scenario to manage credentials.
+
+Optionally, you may wish to manage credentials using the tools/plugins below for extra credit:
+
+[Vault Plugin for MySQL/MariaDB](https://www.vaultproject.io/docs/secrets/databases/mysql-maria)<br>
+[Vault Plugin for WordPress](https://github.com/humanmade/hashicorp-vault)<br>
+[Vault Google Cloud Auth](https://www.vaultproject.io/docs/auth/gcp.html)<br>
