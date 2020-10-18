@@ -5,6 +5,7 @@ Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 ## Prerequisites
 In order to complete this assignment, you must already have your Google Cloud Platform and Amazon Web Services accounts setup.  If you haven't done this yet, refer to the instructions located in Cougar Courses.  
 
+You also need to have completed
 
 ## Objective
 Upon the completion of this assignment, you should be able to ...
