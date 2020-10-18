@@ -30,6 +30,9 @@ In this module we will cover Version Control Systems and Cloud Cost Management.
 
 ****Due: 9-November**** <br>
 
+[<li>Review the Project Instructions](https://github.com/captainarcher/cloud-management-course/blob/master/project/project-instructions.md)<br>
+****Project Due: 14-December at 11pm****
+
 
 ## Read, Watch, Listen, Investigate
 ### Required Readings
