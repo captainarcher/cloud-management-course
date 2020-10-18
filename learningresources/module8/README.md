@@ -57,6 +57,16 @@ Optional: Terraform provides cost estimation as part of enterprise offerings, bu
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
 ****Individual Recordings****<br>
 To be posted
+<li>Cloud Cost Management Lecture
+<li>Version Control Systems Lecture
+<li>GitHub Repository Creation Demo
+<li>GitHub Repository Sharing Demo
+<li>GitHub on Linux VM Setup Demo
+<li>Pull GitHub Repositories to Linux VM Demo
+<li>Edit Files in GitHub Demo
+<li>Push Files to GitHub Demo
+<li>Install GitHub Desktop and ATOM Editor/Connect to GitHub Demo
+
 
 ## Optional Readings, Videos, Activities, and Tutorials
 [GitHub/Git Tutorial - may be out of date](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
