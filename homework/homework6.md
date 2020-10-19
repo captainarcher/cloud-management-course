@@ -5,10 +5,10 @@ Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 ## Prerequisites
 In order to complete this assignment, you must already have your Google Cloud Platform and Amazon Web Services accounts setup.  If you haven't done this yet, refer to the instructions located in Cougar Courses.  
 
-You must also complete Homework #1 and Homework #2 before starting this assignment.
+You must also complete all other homework assignments before starting this assignment.
 
 ## Objective
-Upon the completion of this assignment, you should be able to ...
+Upon the completion of this assignment, you should be able to use Terraform to provision network, compute, and storage infrastructure in either GCP or AWS.
 
 ## Instructions
 TBD

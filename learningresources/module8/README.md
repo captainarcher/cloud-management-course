@@ -62,7 +62,7 @@ Optional: Terraform provides cost estimation as part of enterprise offerings, bu
 To be posted
 <li>Cloud Cost Management Lecture
 <li>Version Control Systems Lecture
-<li>GitHub Repository Creation Demo
+<li>[GitHub Repository Creation Demo](https://youtu.be/gTjy-QwL5JU)
 <li>GitHub Repository Sharing Demo
 <li>GitHub on Linux VM Setup Demo
 <li>Pull GitHub Repositories to Linux VM Demo
