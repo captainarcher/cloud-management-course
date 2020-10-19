@@ -64,7 +64,7 @@ Your deliverables for this portion of the assignment will be:<br>
 <li>Reflection Paper that includes the following: screenshots or text from logged successful Terraform Apply commands and brief narrative (500 words) of what you accomplished along with how you overcame any challenges during this portion of the project.<br>
 
 ## Cloud Infrastructure Deployment (20% of your project grade - 7 points)
-Upon completion of the automation portion of this assignment use Terraform Show and the Cloud Console to capture a picture of what your cloud infrastructure looks like.  Write a brief narrative (500 words) that describes all of your infrastructure and be sure to either include the output of terraform show and screenshots from your cloud console.<br>
+Upon completion of the automation portion of this assignment use Terraform Show and the Cloud Console to capture a picture of what your cloud infrastructure looks like.  Write a brief narrative (500 words) that describes all of your infrastructure, along with your reasoning for choosing that infrastructure, and be sure to either include the output of terraform show and screenshots from your cloud console.<br>
 
 ## Cloud Security Deployment (20% of your project grade - 7 points)
 You will deploy Vault to either GCP or AWS and use it to store and manage credentials.  The basic requirement to get a grade for this portion is to be able to create sample credentials in Vault.
