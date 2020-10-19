@@ -2,8 +2,9 @@
 Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 
 ## Prerequisites
-You will need to complete the work from Module 5 prior to working on this assignment.  Be sure to look at the examples provided.
+You will need to complete the work from Module 5 prior to working on this assignment.  Be sure to look at the examples provided.<br>
 
+[Homework 4 Video](https://youtu.be/bIcNE7ZsbZg)<br>
 ## Objective
 Upon the completion of this assignment, you should be able to compile a cloud architecture drawing using the hypothetical scenario below.
 
