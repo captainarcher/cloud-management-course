@@ -65,7 +65,7 @@ Version Control Systems<br> Lecture<br>
 [GitHub Repository Creation Demo](https://youtu.be/gTjy-QwL5JU)<br>
 [GitHub Repository Sharing Demo](https://youtu.be/_I8slltil1c)<br>
 [GitHub on Linux VM Install](https://youtu.be/DqeUqV66i5A)<br>
-GitHub on Linux VM Setup Demo<br>
+[GitHub on Linux VM Setup Demo](https://youtu.be/rCzEADxAKPI)<br>
 Pull GitHub Repositories to Linux VM Demo<br>
 Edit Files in GitHub Demo<br>
 Push Files to GitHub Demo<br>
