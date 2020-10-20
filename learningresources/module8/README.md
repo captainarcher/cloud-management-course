@@ -1,7 +1,6 @@
 # Module 8
 Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 <br><br>
-****All materials except for the lectures are below****
 ## Overview
 In this module we will cover Version Control Systems and Cloud Cost Management.
 
