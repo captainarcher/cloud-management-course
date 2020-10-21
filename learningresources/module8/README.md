@@ -58,9 +58,8 @@ Optional: Terraform provides cost estimation as part of enterprise offerings, bu
 ### Lectures and Demos
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
 ****Individual Recordings****<br>
-To be posted<br>
-Cloud Cost Management Lecture<br>
-Version Control Systems<br> Lecture<br>
+[Cloud Cost Management and
+Version Control Systems<br> Lecture](https://youtu.be/dcthNOvBpTY)<br>
 [Project Walkthrough](https://youtu.be/e3BYBGBPvIA) <br>
 [GitHub Repository Creation Demo](https://youtu.be/gTjy-QwL5JU)<br>
 [GitHub Repository Sharing Demo](https://youtu.be/_I8slltil1c)<br>
