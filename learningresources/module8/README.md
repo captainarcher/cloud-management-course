@@ -54,6 +54,7 @@ Optional: Terraform provides cost estimation as part of enterprise offerings, bu
 
 ### Required Videos and Activities
 [Git Crash Course - 32:41](https://www.youtube.com/watch?v=SWYqp7iY_Tc)<br>
+Note: private repositories are now FREE with the basic GitHub account as long as you don't exceed three collaborators.  Since you're only sharing with me, this will not affect you.
 
 ### Lectures and Demos
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
