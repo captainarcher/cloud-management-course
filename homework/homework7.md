@@ -1,7 +1,7 @@
 # Homework 7: Cloud Automation Part 2
 Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 
-****This assignment is not ready for students****
+****This assignment is not ready for students - PLEASE CHECK BACK ON or AFTER 11/7****
 ## Prerequisites
 In order to complete this assignment, you must already have your Google Cloud Platform and Amazon Web Services accounts setup.  If you haven't done this yet, refer to the instructions located in Cougar Courses.  
 

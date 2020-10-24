@@ -1,14 +1,16 @@
 # Module 9
 Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 <br>
-****This module is not ready for students yet****
+****This module is not ready for students yet.  Check back on 10/26****
 
 ## Overview
-TBD Logging and Event Management
+This module introduces you to systems data collection using logging tools.
 
 
 ## Learning Outcomes (SLOs)
-TBD
+<li>Be able to use cloud provider data collection tools
+<li>Be aware of 3rd party tools
+<li>Implement a 3rd party tool to collect and display systems logs
 ## Resources, Assignments and Due Dates
 <li>Review the Materials under the Read, Watch, Listen, Investigate Activity<br>
 
@@ -27,6 +29,9 @@ TBD
 ### Required Readings
 To be posted<br>
 TBD Logging and Event Management
+<br>
+[<li>ELK Stack](https://www.elastic.co/elastic-stack)
+[<li>Splunk](https://www.splunk.com/en_us/download.html)<br>
 
 ### Required Videos and Activities
 To be posted<br>
