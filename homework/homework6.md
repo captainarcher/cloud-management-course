@@ -13,17 +13,177 @@ You must have Git installed on your Linux system and configured for your GitHub 
 You must be confident in using Git, GitHub, and Terraform.  If NOT, then go back and practice some more.
 
 ## Objective
-Upon the completion of this assignment, you should be able to use Terraform to provision network, compute, and storage infrastructure in either GCP or AWS.
+Upon the completion of this assignment, you should be able to use Terraform to provision network and network infrastructure in either GCP or AWS.
 
 ## Instructions
-Decide whether you will work in AWS or GCP and then skip to the appropriate section of the instructions.  You only need to do this on one cloud platform, but whichever you use, then that is what you need to use for Homework 7 as well.
+Decide whether you will work in AWS or GCP.  You only need to do this on one cloud platform, but whichever you use, then that is what you need to use for Homework 7 as well.
 
 If you have not gone through the Terraform Tutorial exercise in the Module 6 instructions, then STOP NOW!  You need to complete that exercise first.
 
 If you have not setup GitHub yet in Homework 5, then STOP NOW!  You need to complete Homework 5 first.
 
-### GCP Instructions
+Start with the Common Instructions below and then skip to either the GCP or AWS Instructions depending on your earlier choice.
+
+### Common Instructions
 1. Login to your Linux instance through SSH (if you have multiple instances, whichever one has Terraform and GitHub setup on it is fine).
+2. Change to your local Git directory (in my example, this is called "mygit" without the quotes, but the name is whatever you named yours)
+```
+cd ~/mygit
+```
+3. Change to your Homework repository (in my example, this is called "Your_Name_Homework"
+```
+cd Your_Name_Homework
+```
+4. Create a directory in your local copy of the Homework repository for Terraform.
+```
+mkdir terraform
+```
+5. Change to the terraform directory that you just created.
+```
+cd terraform
+```
+6. Create an empty main.tf file in the terraform directory.
+```
+touch main.tf
+```
+6. Add the empty main.tf file to GitHub.
+```
+git add main.tf
+```
+7. If you wish to set vi/vim as the default editor, make sure to type:
+```
+set -o vi
+```
+8. Commit the empty main.tf file to GitHub.  Enter a comment when prompted using your text editor.
+```
+git commit -a
+```
+9. Push your changes to GitHub.
+```
+git push
+```
+10. Verify that your changes pushed to GitHub by visiting your repository in your web browser.
+11. Proceed to either the GCP or AWS Instructions, depending on your earlier decision.
+
+### GCP Instructions
+1. Copy/Paste the following text into your main.tf file.  This will set up your Terraform to use the Google Provider, provision a VPC network for Homework 6 and build multiple VMs.
+
+```
+terraform {
+  required_providers {
+    google = {
+      source = "hashicorp/google"
+    }
+  }
+}
+
+provider "google" {
+  version = "3.5.0"
+  credentials = file(var.credentials_file)
+  project = var.project
+  region = var.region
+  zone = var.zone
+
+}
+
+resource "google_compute_network" "vpc_network" {
+  name = "homework6-network"
+}
+
+resource "google_compute_address" "vm_static_ip" {
+  name = "homework6-static-ip"
+}
+
+
+resource "google_compute_instance" "vm_instance" {
+  name         = "homework6-instance1"
+  machine_type = var.machine_types[var.environment]
+  tags         = ["web", "dev"]
+
+  provisioner "local-exec" {
+     command = "echo ${google_compute_instance.vm_instance.name}:  ${google_compute_instance.vm_instance.network_interface[0].access_config[0].nat_ip} >> ip_address.txt"
+  }
+
+  boot_disk {
+    initialize_params {
+      image = "cos-cloud/cos-stable"
+    }
+  }
+
+  network_interface {
+    network = google_compute_network.vpc_network.self_link
+    access_config {
+      nat_ip = google_compute_address.vm_static_ip.address
+    }
+  }
+}
+"google_compute_instance" "vm_instance" {
+  name         = "homework6-instance2"
+  machine_type = var.machine_types[var.environment]
+  tags         = ["web", "dev"]
+
+  provisioner "local-exec" {
+     command = "echo ${google_compute_instance.vm_instance.name}:  ${google_compute_instance.vm_instance.network_interface[0].access_config[0].nat_ip} >> ip_address.txt"
+  }
+
+  boot_disk {
+    initialize_params {
+      image = "cos-cloud/cos-stable"
+    }
+  }
+
+  network_interface {
+    network = google_compute_network.vpc_network.self_link
+    access_config {
+      nat_ip = google_compute_address.vm_static_ip.address
+    }
+  }
+}
+"google_compute_instance" "vm_instance" {
+  name         = "homework6-instance3"
+  machine_type = var.machine_types[var.environment]
+  tags         = ["db", "dev"]
+
+  provisioner "local-exec" {
+     command = "echo ${google_compute_instance.vm_instance.name}:  ${google_compute_instance.vm_instance.network_interface[0].access_config[0].nat_ip} >> ip_address.txt"
+  }
+
+  boot_disk {
+    initialize_params {
+      image = "cos-cloud/cos-stable"
+    }
+  }
+
+  network_interface {
+    network = google_compute_network.vpc_network.self_link
+    access_config {
+      nat_ip = google_compute_address.vm_static_ip.address
+    }
+  }
+}
+"google_compute_instance" "vm_instance" {
+  name         = "homework6-instance4"
+  machine_type = var.machine_types[var.environment]
+  tags         = ["db", "dev"]
+
+  provisioner "local-exec" {
+     command = "echo ${google_compute_instance.vm_instance.name}:  ${google_compute_instance.vm_instance.network_interface[0].access_config[0].nat_ip} >> ip_address.txt"
+  }
+
+  boot_disk {
+    initialize_params {
+      image = "cos-cloud/cos-stable"
+    }
+  }
+
+  network_interface {
+    network = google_compute_network.vpc_network.self_link
+    access_config {
+      nat_ip = google_compute_address.vm_static_ip.address
+    }
+  }
+}
+```
 2.
 
 ### AWS instructions
