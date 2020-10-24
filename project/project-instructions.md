@@ -77,3 +77,4 @@ Optionally, you may wish to manage credentials using the tools/plugins below for
 [Vault Plugin for MySQL/MariaDB](https://www.vaultproject.io/docs/secrets/databases/mysql-maria)<br>
 [Vault Plugin for WordPress](https://github.com/humanmade/hashicorp-vault)<br>
 [Vault Google Cloud Auth](https://www.vaultproject.io/docs/auth/gcp.html)<br>
+[Vault AWS Secrets](https://learn.hashicorp.com/tutorials/terraform/secrets-vault)<br>
