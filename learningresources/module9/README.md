@@ -35,7 +35,9 @@ TBD Logging and Event Management
 
 ### Required Videos and Activities
 To be posted<br>
-You are required to complete the ungraded Logging Activity. (Link coming on 10/26).  The core assignment is ungraded, however you may choose to do additional work using Beats other than Metricbeats and submit as part of an extra credit assignment that will be announced and detailed in a few weeks.  
+You are required to complete the ungraded [Logging Activity](https://github.com/captainarcher/cloud-management-course/blob/master/learningresources/module9/loggingactivity.md).  The core assignment is ungraded, however you may choose to do additional work using Beats other than Metricbeats and submit as part of an extra credit assignment that will be announced and detailed in a few weeks.  
+
+The Ubuntu/Debian instructions for the above activity are posted.  The RedHat/Amazon Linux version will not be posted until 10/26.
 ### Lectures and Demos
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
 ****Individual Recordings****<br>
