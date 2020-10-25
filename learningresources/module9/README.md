@@ -1,7 +1,7 @@
 # Module 9
 Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 <br>
-****This module is not ready for students yet.  Check back on 10/26****
+****This module is not ready for students yet.  Check back the evening of 10/26****
 
 ## Overview
 This module introduces you to systems data collection using logging tools.  Although you will learn about a few different types of tools, the hands-on learning activity will focus on the Elastic Stack (formerly ELK stack).
@@ -35,7 +35,7 @@ TBD Logging and Event Management
 
 ### Required Videos and Activities
 To be posted<br>
-TBD
+You are required to complete the ungraded Logging Activity. (Link coming on 10/26).  The core assignment is ungraded, however you may choose to do additional work using Beats other than Metricbeats and submit as part of an extra credit assignment that will be announced and detailed in a few weeks.  
 ### Lectures and Demos
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
 ****Individual Recordings****<br>

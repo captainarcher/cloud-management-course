@@ -28,30 +28,26 @@ sudo dpkg -i elasticsearch-7.9.3-amd64.deb
 ```
 sudo /etc/init.d/elasticsearch start
 ```
-5. Open up network access to your Linux virtual machine from the Internet for Elastic Stack (ELK) ports.  You will need to open these ports for the Public IP Address of your Linux VM: 9200, 5601
+5. Setup ngrok so you can access your Linux VM through the Internet using a reverse proxy service on port 5601.  This avoids you having to open up public Internet access to your VM.<br>
 
-**GCP Firewall Opening Instructions:**<br>
-**AWS Firewall Opening Instructions:**
-
-Note: If your Linux VM does not yet have a public IP, then follow these instructions for adding one.
-<br>
-**GCP Public IP Setup Instructions:**<br>
-**AWS Public IP Setup Instructions:**<br>
+Sign-up for the free account [here](https://dashboard.ngrok.com/signup). **NO CREDIT CARD IS REQUIRED!  DO NOT ENTER ONE.**
+Download ngrok to your Linux VM using:
+```
+wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
+```
+Unzip ngrok using:
+```
+unzip ngrok-stable-linux-amd64.zip
+```
 
 6. Ensure that Elasticsearch is running on port 9200.
 
-First, test from your Linux VM:
+Test from your Linux VM:
 ```
 curl http://127.0.0.1:9200
 ```
 
-Next, test from your computer's browser.  http://YOURPUBLICIP:9200
-
-Replace "YOURPUBLICIP" with the actual Public IP for your VM instance.
-
-Hint: your Public IP will NOT be an address that starts with 10, 172, or 192.  If you have an IP that starts with one of those numbers, that is your Private IP.  Go back a step and read the instructions carefully before proceeding.
-
-Your tests should show a result similar to this example:
+Your test should show a result similar to this example:
 ```
 {
   "name" : "QtI5dUu",
@@ -103,11 +99,20 @@ You should see something that looks similar to this:
 tcp       0      0  *.5601                 *.*                    LISTEN     
 ```
 
-Next, test Kibana from your computer's browser.  http://YOURPUBLICIP:5601
+Next, you need to launch ngrok on your Linux VM on Port 5601 and then access the proxied URL.
+```
+cd ngrok
+```
 
-Replace "YOURPUBLICIP" with the actual Public IP for your VM instance.
+From your web browser, copy the authtoken provided by ngrok and paste into the command below (replace YOURAUTHTOKEN with the actual authtoken).
+```
+./ngrok authtoken YOURAUTHTOKEN
+```
+example:
+```
+./ngrok authtoken 209832890423u43HJKhjkhjkaa2348932u4324
+```
 
-Hint: your Public IP will NOT be an address that starts with 10, 172, or 192.  If you have an IP that starts with one of those numbers, that is your Private IP.  Go back a step and read the instructions carefully before proceeding.
 
 12. Now, you need to install Beats to ingest data from various sources and then send to Elasticsearch.  For this activity, we will install Metricbeat to capture metrics from our system.  As described earlier, you could install other Beats to capture other data.
 
@@ -118,7 +123,6 @@ curl -L -O https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-7.
 14. Install MetricBeat.
 ```
 sudo dpkg -i metricbeat-7.9.3-amd64.deb
-
 ```
 15. Enable the System metric data collection module.
 ```
@@ -133,11 +137,21 @@ sudo metricbeat setup -e
 ```
 sudo service metricbeat start
 ```
-18. Open [Kibana]( http://YOURPUBLICIP:5601/app/kibana#/dashboard/Metricbeat-system-overview-ecs) in your computer's web browser.  Be sure to replace YOURPUBLICIP with the actual public IP address for your VM.
+18. Then, from your Linux VM create a reverse proxy tunnel with:
+```
+./ngrok http 5601
+```
+You will then be provided with the URL that you can access Kibana's UI from temporarily (this will change each time you launch ngrok).
+Example:
+http://somerandomstring.ngrok.io -> http://localhost:5601
+19. Open Kibana in your computer's web browser using the URL that ngrok provided you.  Example (this will not actually work - replace with your URL): http://somerandomstring.ngrok.io
 
-19.
+This screenshot of my [Kibana UI](https://github.com/captainarcher/cloud-management-course/blob/master/learningresources/module9/kibana-example.png) illustrates what types of data you may see.
+20.
+
 
 ## Instructions for RedHat/Amazon Linux/Fedora/CentOS
+The Debian/Ubuntu instructions are ready, but the non-Debian/no-Ubuntu instructions will take me longer to create.
 
 1. Download Java to your Linux machine.  OpenJDK 14 or 15 are required.  
 ***Note: If you do not have wget installed, use ```sudo yum install wget```***<br>
