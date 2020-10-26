@@ -11,6 +11,7 @@ We will be focused on Metricbeat for this activity, but an extra credit assignme
 <br>
 
 ## Instructions for Ubuntu/Debian Linux
+Unless otherwise indicated, you will perform these steps on your Linux VM.
 1. Install Java on your Linux machine.  OpenJDK 14 or 15 are required.  Use this command to install Open JDK 14.
 ```
 sudo apt install openjdk-14-jre-headless
@@ -30,12 +31,13 @@ sudo /etc/init.d/elasticsearch start
 ```
 5. Setup ngrok so you can access your Linux VM through the Internet using a reverse proxy service on port 5601.  This avoids you having to open up public Internet access to your VM.<br>
 
-Sign-up for the free account [here](https://dashboard.ngrok.com/signup). **NO CREDIT CARD IS REQUIRED!  DO NOT ENTER ONE.**
-Download ngrok to your Linux VM using:
+A) Sign-up for the free account [here](https://dashboard.ngrok.com/signup). **NO CREDIT CARD IS REQUIRED!  DO NOT ENTER ONE.**
+<br>
+B) Download ngrok to your Linux VM using:
 ```
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
 ```
-Unzip ngrok using:
+C) Unzip ngrok using:
 ```
 unzip ngrok-stable-linux-amd64.zip
 ```
@@ -208,12 +210,132 @@ You should see version 14.
 curl -L -O https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.9.3-x86_64.rpm
 ```
 Note: if you do not have curl installed, use ```sudo yum install curl```.<br>
-3. Install Elasticsearch
+9. Install Elasticsearch
 ```
 sudo rpm -i elasticsearch-7.9.3-x86_64.rpm
 ```
-4. Start elasticsearch
+10. Start elasticsearch
 ```
 sudo service elasticsearch start
 ```
-# TO BE FINISHED
+11. Setup ngrok so you can access your Linux VM through the Internet using a reverse proxy service on port 5601.  This avoids you having to open up public Internet access to your VM.<br>
+
+A) Sign-up for the free account [here](https://dashboard.ngrok.com/signup). **NO CREDIT CARD IS REQUIRED!  DO NOT ENTER ONE.**
+<br>
+B) Download ngrok to your Linux VM using:
+```
+wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
+```
+C) Unzip ngrok using:
+```
+unzip ngrok-stable-linux-amd64.zip
+```
+12. Ensure that Elasticsearch is running on port 9200.
+
+Test from your Linux VM:
+```
+curl http://127.0.0.1:9200
+```
+
+Your test should show a result similar to this example:
+```
+{
+  "name" : "QtI5dUu",
+  "cluster_name" : "elasticsearch",
+  "cluster_uuid" : "DMXhqzzjTGqEtDlkaMOzlA",
+  "version" : {
+    "number" : "7.9.3",
+    "build_flavor" : "default",
+    "build_type" : "tar",
+    "build_hash" : "00d8bc1",
+    "build_date" : "2018-06-06T16:48:02.249996Z",
+    "build_snapshot" : false,
+    "lucene_version" : "7.3.1",
+    "minimum_wire_compatibility_version" : "5.6.0",
+    "minimum_index_compatibility_version" : "5.0.0"
+  },
+  "tagline" : "You Know, for Search"
+}
+```
+13. Download [Kibana](https://www.elastic.co/products/kibana) to your Linux VM.  From the Linux Command line:
+```
+curl -L -O https://artifacts.elastic.co/downloads/kibana/kibana-7.9.3-linux-x86_64.tar.gz
+```
+14. Extract Kibana from the gzipped tar file.
+```
+tar xzvf kibana-7.9.3-linux-x86_64.tar.gz
+```
+15. Change to the downloaded Kibana directory.
+```
+cd kibana-7.9.3-linux-x86_64/
+```
+16. Start Kibana in the background.
+```
+./bin/kibana &
+```
+
+Wait until you see a log line like this
+```
+  log   [22:20:31.804] [info][server][Kibana][http] http server running at http://localhost:5601
+  ```
+on your screen and then hit your RETURN key until you see the normal Linux prompt.  The ampersand (&) used above places the executed process into the background.  If you encounter issues, you can use ```ps -ef | grep kibana``` to locate the process ID (PID) and then use ```sudo kill -9 PID```.
+17. First, make sure that your Linux VM is listening for network traffic on port 5601:
+```
+netstat -an | grep 5601 | grep LISTEN
+```
+You should see something that looks similar to this:
+```
+tcp       0      0  *.5601                 *.*                    LISTEN     
+```
+
+Next, you need to launch ngrok on your Linux VM on Port 5601 and then access the proxied URL.
+```
+cd ngrok
+```
+
+From your web browser, copy the authtoken provided by ngrok and paste into the command below (replace YOURAUTHTOKEN with the actual authtoken).
+```
+./ngrok authtoken YOURAUTHTOKEN
+```
+example:
+```
+./ngrok authtoken 209832890423u43HJKhjkhjkaa2348932u4324
+```
+
+
+18. Now, you need to install Beats to ingest data from various sources and then send to Elasticsearch.  For this activity, we will install Metricbeat to capture metrics from our system.  As described earlier, you could install other Beats to capture other data.
+
+19. Download MetricBeat.
+```
+curl -L -O https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-7.9.3-x86_64.rpm
+```
+20. Install MetricBeat.
+```
+sudo rpm -vi metricbeat-7.9.3-x86_64.rpm
+```
+21. Enable the System metric data collection module.
+```
+sudo metricbeat modules enable system
+```
+If you get a notice that "Module system is already enabled", then just move to the next step.
+22. Configure Metricbeat's initial configurations for the Kibana dashboards
+```
+sudo metricbeat setup -e
+```
+This may take awhile to complete.  If it hasn't completed within 10 minutes, then open another SSH session to your Linux VM and continue with the next step.
+23. Start Metricbeat, which will start sending system metrics to Kibana.
+```
+sudo service metricbeat start
+```
+This may take a few minutes.  Once it completes, proceed to the next step.
+24. Then, from your Linux VM create a reverse proxy tunnel with:
+```
+./ngrok http 5601
+```
+You will then be provided with the URL that you can access Kibana's UI from temporarily (this will change each time that you launch ngrok).
+Example:
+http://somerandomstring.ngrok.io -> http://localhost:5601
+25. Open Kibana in your computer's web browser using the URL that ngrok provided you.  Example (this will not actually work - replace with your URL): http://somerandomstring.ngrok.io
+
+This screenshot of my [Kibana UI](https://github.com/captainarcher/cloud-management-course/blob/master/learningresources/module9/kibana-example.png) illustrates what types of data you may see.
+26. Explore the Kibana UI - use the [Kibana Guide](https://www.elastic.co/guide/en/kibana/7.9/index.html) to find your way around the UI if you get lost.
