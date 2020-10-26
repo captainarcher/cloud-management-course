@@ -37,10 +37,12 @@ TBD Logging and Event Management
 To be posted<br>
 You are required to complete the ungraded [Logging Activity](https://github.com/captainarcher/cloud-management-course/blob/master/learningresources/module9/loggingactivity.md).  The core assignment is ungraded, however you may choose to do additional work using Beats other than Metricbeats and submit as part of an extra credit assignment that will be announced and detailed in a few weeks.  
 
-The Ubuntu/Debian instructions for the above activity are posted.  The RedHat/Amazon Linux version will not be posted until 10/26.
+
+
 ### Lectures and Demos
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
 ****Individual Recordings****<br>
 To be posted
 
-## Optional Readings, Videos, Activities, and Tutorials
+## Optional Readings, Videos, Activities, and Extra Credit
+Extra Credit Opportunity: After completing the above Logging Activity, implement two additional Elastic Beats (Metricbeat does not count) in your Elastic Stack (ELK).  You may choose from Auditbeat, Filebeat, Functionbeat, Heartbeat, Journalbeat, or Packetbeat.  I am not able to help you with this extra credit - if you choose to do this, please work through challenges on your own.  You will submit evidence of your implementation as well as screenshots of the data in your Kibana UI.  You will also write a 500 word reflection essay following the same format as the homework assignments.  You will submit this extra credit to the box in Module 15.
