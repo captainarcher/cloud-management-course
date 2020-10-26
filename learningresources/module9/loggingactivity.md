@@ -330,6 +330,9 @@ sudo service metricbeat start
 This may take a few minutes.  Once it completes, proceed to the next step.
 24. Then, from your Linux VM create a reverse proxy tunnel with:
 ```
+cd ~/ngrok
+```
+```
 ./ngrok http 5601
 ```
 You will then be provided with the URL that you can access Kibana's UI from temporarily (this will change each time that you launch ngrok).
