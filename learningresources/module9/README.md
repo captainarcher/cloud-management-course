@@ -8,10 +8,10 @@ This module introduces you to systems data collection using logging tools.  Alth
 
 
 ## Learning Outcomes (SLOs)
-<li>Be able to use a 3rd party tool to collect system metrics
-<li>
-<li>
-<li>
+<li>Be able to deploy a 3rd party tool to collect system metrics
+<li>Understand different types of data collection tools
+<li>Understand different types of data that might be collected
+
 ## Resources, Assignments and Due Dates
 <li>Review the Materials under the Read, Watch, Listen, Investigate Activity<br>
 
@@ -28,7 +28,7 @@ This module introduces you to systems data collection using logging tools.  Alth
 
 ## Read, Watch, Listen, Investigate
 ### Required Readings
-To be posted<br>
+[<li>Linux Systems Logging](https://devconnected.com/linux-logging-complete-guide/)<br>
 [<li>ELK Stack](https://www.elastic.co/elastic-stack)<br>
 [<li>Splunk](https://www.splunk.com/en_us/download.html)<br>
 [<li>GCP Cloud Monitoring Overview](https://cloud.google.com/monitoring)<br>
@@ -36,16 +36,18 @@ To be posted<br>
 [<li>AWS CloudWatch Overview](https://aws.amazon.com/cloudwatch/)<br>
 
 ### Required Videos and Activities
-To be posted<br>
 You are required to complete the ungraded [Logging Activity](https://github.com/captainarcher/cloud-management-course/blob/master/learningresources/module9/loggingactivity.md).  The core assignment is ungraded, however you may choose to do additional work using Beats other than Metricbeats and submit as part of the extra credit assignment below.
-
 [AWS CloudWatch Introduction](https://youtu.be/a4dhoTQCyRA)<br>
+[GCP Cloud Monitoring Introduction](https://www.youtube.com/watch?v=gUW9Ewno2eE)<br>
+[Elastic Stack Introduction](https://www.elastic.co/videos/introduction-to-the-elk-stack)<br>
 
 
 ### Lectures and Demos
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
 ****Individual Recordings****<br>
-To be posted
+To be posted - Demo of above Logging Activity + Lecture
 
 ## Optional Readings, Videos, Activities, and Extra Credit
-Extra Credit Opportunity: After completing the above Logging Activity, implement two additional Elastic Beats (Metricbeat does not count) in your Elastic Stack (ELK).  You may choose from Auditbeat, Filebeat, Functionbeat, Heartbeat, Journalbeat, or Packetbeat.  I am not able to help you with this extra credit - if you choose to do this, please work through challenges on your own.  You will submit evidence of your implementation as well as screenshots of the data in your Kibana UI.  You will also write a 500 word reflection essay following the same format as the homework assignments.  You will submit this extra credit to the box in Module 15.
+Extra Credit Opportunity: After completing the above Logging Activity, implement two additional Elastic Beats (Metricbeat does not count) in your Elastic Stack (ELK).  You may choose from Auditbeat, Filebeat, Functionbeat, Heartbeat, Journalbeat, or Packetbeat.  I am not able to help you with this extra credit - if you choose to do this, please work through challenges on your own.  You will submit evidence of your implementation as well as screenshots of the data in your Kibana UI.  You will also write a 500 word reflection essay following the same format as the homework assignments.  You will submit this extra credit to the box in Module 15.<br>
+
+[<li>Free Splunk Foundations Course](https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html)<br>
