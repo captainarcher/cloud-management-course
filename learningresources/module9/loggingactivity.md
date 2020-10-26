@@ -89,7 +89,7 @@ Wait until you see a log line like this
 ```
   log   [22:20:31.804] [info][server][Kibana][http] http server running at http://localhost:5601
   ```
-on your screen and then hit your RETURN key until you see the normal Linux prompt.
+on your screen and then hit your RETURN key until you see the normal Linux prompt.  The ampersand (&) used above places the executed process into the background.  If you encounter issues, you can use ```ps -ef | grep kibana``` to locate the process ID (PID) and then use ```sudo kill -9 PID```.
 11. First, make sure that your Linux VM is listening for network traffic on port 5601:
 ```
 netstat -an | grep 5601 | grep LISTEN
@@ -133,11 +133,12 @@ If you get a notice that "Module system is already enabled", then just move to t
 ```
 sudo metricbeat setup -e
 ```
-This may take awhile to complete.
+This may take awhile to complete.  If it hasn't completed within 10 minutes, then open another SSH session to your Linux VM and continue with the next step.
 17. Start Metricbeat, which will start sending system metrics to Kibana.
 ```
 sudo service metricbeat start
 ```
+This may take a few minutes.  Once it completes, proceed to the next step.
 18. Then, from your Linux VM create a reverse proxy tunnel with:
 ```
 ./ngrok http 5601
