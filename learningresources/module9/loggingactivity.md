@@ -133,6 +133,7 @@ If you get a notice that "Module system is already enabled", then just move to t
 ```
 sudo metricbeat setup -e
 ```
+This may take awhile to complete.
 17. Start Metricbeat, which will start sending system metrics to Kibana.
 ```
 sudo service metricbeat start
@@ -141,14 +142,13 @@ sudo service metricbeat start
 ```
 ./ngrok http 5601
 ```
-You will then be provided with the URL that you can access Kibana's UI from temporarily (this will change each time you launch ngrok).
+You will then be provided with the URL that you can access Kibana's UI from temporarily (this will change each time that you launch ngrok).
 Example:
 http://somerandomstring.ngrok.io -> http://localhost:5601
 19. Open Kibana in your computer's web browser using the URL that ngrok provided you.  Example (this will not actually work - replace with your URL): http://somerandomstring.ngrok.io
 
 This screenshot of my [Kibana UI](https://github.com/captainarcher/cloud-management-course/blob/master/learningresources/module9/kibana-example.png) illustrates what types of data you may see.
-20.
-
+20. Explore the Kibana UI - use the [Kibana Guide](https://www.elastic.co/guide/en/kibana/7.9/index.html) to find your way around the UI if you get lost.
 
 ## Instructions for RedHat/Amazon Linux/Fedora/CentOS
 The Debian/Ubuntu instructions are ready, but the non-Debian/no-Ubuntu instructions will take me longer to create.
