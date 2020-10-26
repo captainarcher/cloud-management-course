@@ -1,7 +1,7 @@
 # Module 9
 Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 <br>
-****This module is not ready for students yet.  Check back the evening of 10/26****
+****Lectures are not ready until 10/27, but the other materials are ready for students now****
 
 ## Overview
 This module introduces you to systems data collection using logging tools.  Although you will learn about a few different types of tools, the hands-on learning activity will focus on the Elastic Stack (formerly ELK stack).
