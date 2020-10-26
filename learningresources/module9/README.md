@@ -8,9 +8,10 @@ This module introduces you to systems data collection using logging tools.  Alth
 
 
 ## Learning Outcomes (SLOs)
-<li>Be able to use cloud provider data collection tools
-<li>Be aware of 3rd party tools
-<li>Implement a 3rd party tool to collect and display systems logs
+<li>Be able to use a 3rd party tool to collect system metrics
+<li>
+<li>
+<li>
 ## Resources, Assignments and Due Dates
 <li>Review the Materials under the Read, Watch, Listen, Investigate Activity<br>
 
@@ -28,15 +29,17 @@ This module introduces you to systems data collection using logging tools.  Alth
 ## Read, Watch, Listen, Investigate
 ### Required Readings
 To be posted<br>
-TBD Logging and Event Management
-<br>
-[<li>ELK Stack](https://www.elastic.co/elastic-stack)
+[<li>ELK Stack](https://www.elastic.co/elastic-stack)<br>
 [<li>Splunk](https://www.splunk.com/en_us/download.html)<br>
+[<li>GCP Cloud Monitoring Overview](https://cloud.google.com/monitoring)<br>
+[<li>GCP Cloud Monitoring Documentation](https://cloud.google.com/monitoring/docs/)<br>
+[<li>AWS CloudWatch Overview](https://aws.amazon.com/cloudwatch/)<br>
 
 ### Required Videos and Activities
 To be posted<br>
-You are required to complete the ungraded [Logging Activity](https://github.com/captainarcher/cloud-management-course/blob/master/learningresources/module9/loggingactivity.md).  The core assignment is ungraded, however you may choose to do additional work using Beats other than Metricbeats and submit as part of an extra credit assignment that will be announced and detailed in a few weeks.  
+You are required to complete the ungraded [Logging Activity](https://github.com/captainarcher/cloud-management-course/blob/master/learningresources/module9/loggingactivity.md).  The core assignment is ungraded, however you may choose to do additional work using Beats other than Metricbeats and submit as part of the extra credit assignment below.
 
+[AWS CloudWatch Introduction](https://youtu.be/a4dhoTQCyRA)<br>
 
 
 ### Lectures and Demos
