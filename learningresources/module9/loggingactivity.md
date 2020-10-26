@@ -154,7 +154,7 @@ This screenshot of my [Kibana UI](https://github.com/captainarcher/cloud-managem
 20. Explore the Kibana UI - use the [Kibana Guide](https://www.elastic.co/guide/en/kibana/7.9/index.html) to find your way around the UI if you get lost.
 
 ## Instructions for RedHat/Amazon Linux/Fedora/CentOS
-The Debian/Ubuntu instructions are ready, but the non-Debian/no-Ubuntu instructions will take me longer to create.
+Unless otherwise indicated, you will perform these steps on your Linux VM.
 
 1. Download Java to your Linux machine.  OpenJDK 14 or 15 are required.  
 ***Note: If you do not have wget installed, use ```sudo yum install wget```***<br>
