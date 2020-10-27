@@ -4,7 +4,7 @@ Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 ****This module is not ready for students yet****
 
 ## Overview
-TBD Governance and Compliance/Policy as Code
+TBD Governance and Compliance
 
 
 ## Learning Outcomes (SLOs)
