@@ -6,6 +6,7 @@ Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 ## Overview
 This module introduces you to systems data collection using logging tools.  Although you will learn about a few different types of tools, the hands-on learning activity will focus on the Elastic Stack (formerly ELK stack).
 
+This is the final module for new technical material in this course.  Upon completing this module, you should be ready to complete the remaining homework assignments and work on your course project.
 
 ## Learning Outcomes (SLOs)
 <li>Be able to deploy a 3rd party tool to collect system metrics
