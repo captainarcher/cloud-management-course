@@ -49,7 +49,7 @@ You are also required to complete the ungraded [Logging Activity](https://github
 ****Individual Recordings****<br>
 [Logging Activity Demo](https://youtu.be/5g-7pRhL2CQf)<br>
 [Module 9 Logging Lecture](https://youtu.be/Ga8Ufq1bl9o)<br>
-To be posted - General feedback on Homework 4<br>
+[General feedback on Homework 4](https://youtu.be/zR-0QTi3lq8)<br>
 ## Optional Readings, Videos, Activities, and Extra Credit
 **Extra Credit Opportunity:** After completing the above Logging Activity, implement two additional Elastic Beats (Metricbeat does not count) in your Elastic Stack (ELK).  You may choose from Auditbeat, Filebeat, Functionbeat, Heartbeat, Journalbeat, or Packetbeat.  I am not able to help you with this extra credit - if you choose to do this, please work through challenges on your own.  You will submit evidence of your implementation as well as screenshots of the data in your Kibana UI.  You will also write a 500 word reflection essay following the same format as the homework assignments.  You will submit this extra credit to the box in Module 15.  This extra credit assignment is worth 2% of your final course grade or 2 points. <br>
 
