@@ -49,6 +49,10 @@ Uncomment (remove # sign) from before http.port.
 ```
 sudo /etc/init.d/elasticsearch start
 ```
+OR
+```
+sudo systemctl start elasticsearch.service
+```
 If you receive an error message, then your VM needs more memory assigned to it.  Go into your cloud console and increase memory to 8GB.  Be sure and revert to the original size once you complete this activity.
 5. Setup ngrok so you can access your Linux VM through the Internet using a reverse proxy service on port 5601.  This avoids you having to open up public Internet access to your VM.<br>
 
@@ -58,6 +62,8 @@ B) Download ngrok to your Linux VM using:
 ```
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
 ```
+If wget is not installed, install it with ```sudo apt-get install wget```
+<br>
 C) Unzip ngrok using:
 ```
 unzip ngrok-stable-linux-amd64.zip
