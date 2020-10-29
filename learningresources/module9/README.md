@@ -48,7 +48,7 @@ You are also required to complete the ungraded [Logging Activity](https://github
 ### Lectures and Demos
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
 ****Individual Recordings****<br>
-To be posted - Demo of above Logging Activity <br>
+[Logging Activity Demo](https://youtu.be/5g-7pRhL2CQf)<br>
 [Module 9 Logging Lecture](https://youtu.be/Ga8Ufq1bl9o)<br>
 To be posted - General feedback on Homework 4<br>
 ## Optional Readings, Videos, Activities, and Extra Credit

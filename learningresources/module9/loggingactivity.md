@@ -6,6 +6,8 @@ In this activity, you will set up the Elastic Stack (ELK) to capture data from M
 
 We will be focused on Metricbeat for this activity, but an extra credit assignment will be posted that will enable you to expand upon what you learned.  The details for the extra credit are in Module 9.
 
+Be sure to follow along with the [demo video](https://youtu.be/5g-7pRhL2CQ).  If you are using Debian/Ubuntu, then your questions are answered in the video.  If you've chosen to use RedHat-based distributions, many of the steps are the same or similar, but any RedHat-specific issues will require that you do independent research.<br>
+
 **Follow the instructions for your chosen Linux distribution**
 <br>
 
@@ -68,6 +70,8 @@ C) Unzip ngrok using:
 ```
 unzip ngrok-stable-linux-amd64.zip
 ```
+If unzip is not installed, install it with ```sudo apt-get install zip```
+<br>
 
 6. Ensure that Elasticsearch is running on port 9200.
 
@@ -129,9 +133,6 @@ tcp       0      0  *.5601                 *.*                    LISTEN
 ```
 
 Next, you need to launch ngrok on your Linux VM on Port 5601 and then access the proxied URL.
-```
-cd ngrok
-```
 
 From your web browser, copy the authtoken provided by ngrok and paste into the command below (replace YOURAUTHTOKEN with the actual authtoken).
 ```
