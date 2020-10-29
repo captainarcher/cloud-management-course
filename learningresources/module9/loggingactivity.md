@@ -15,6 +15,18 @@ Unless otherwise indicated, you will perform these steps on your Linux VM.
 ```
 sudo apt install openjdk-14-jre-headless
 ```
+*Debian users:* If you receive this message: "E: Unable to locate package openjdk-14-jre-headless", then do the following:<br>
+Open /etc/apt/sources.list in a text editor.  You need to use sudo - i.e. ```sudo vi /etc/apt/sources.list```
+<br>
+Add this line to the bottom of the sources.list file:<br>
+
+```
+deb http://deb.debian.org/debian sid main
+```
+<br>Save the changes to this file.
+Run: ```sudo apt update```
+<br>
+Now go back to the start of this step and try again.<br>
 2. Download [Elasticsearch](https://www.elastic.co/products/elasticsearch).
 ```
 curl -L -O https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.9.3-amd64.deb
@@ -24,10 +36,20 @@ Note: if you do not have curl installed, use ```sudo apt install curl``` to inst
 ```
 sudo dpkg -i elasticsearch-7.9.3-amd64.deb
 ```
+<br>
+Modify elasticsearch.yml file using:
+```
+sudo vi /etc/elasticsearch/elasticsearch.yml
+```
+Change the value of network.host to be 127.0.0.1
+Uncomment (remove # sign) from before network.host.
+Uncomment (remove # sign) from before http.port.
+
 4. Start elasticsearch
 ```
 sudo /etc/init.d/elasticsearch start
 ```
+If you receive an error message, then your VM needs more memory assigned to it.  Go into your cloud console and increase memory to 8GB.  Be sure and revert to the original size once you complete this activity.
 5. Setup ngrok so you can access your Linux VM through the Internet using a reverse proxy service on port 5601.  This avoids you having to open up public Internet access to your VM.<br>
 
 A) Sign-up for the free account [here](https://dashboard.ngrok.com/signup). **NO CREDIT CARD IS REQUIRED!  DO NOT ENTER ONE.**
