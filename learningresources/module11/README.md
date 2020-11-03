@@ -29,6 +29,7 @@ TBD
 ### Required Readings
 To be posted<br>
 TBD
+[Using Vault and Terraform with GCP](https://medium.com/@jryancanty/hashicorp-vault-and-terraform-on-google-cloud-security-best-practices-3d94de86a3e9)<br>
 
 ### Required Videos and Activities
 To be posted<br>

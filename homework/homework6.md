@@ -2,7 +2,7 @@
 Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 
 # PLEASE READ
-****This assignment is not ready for students - PLEASE CHECK BACK ON or AFTER 11/2****
+****This assignment is not ready for students - PLEASE CHECK BACK ON or AFTER 11/8****
 ## Prerequisites
 
 You must complete all other homework assignments and all modules up through and including Module 8 before starting this assignment.
