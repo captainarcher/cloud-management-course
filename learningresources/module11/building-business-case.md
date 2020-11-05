@@ -3,59 +3,27 @@ Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 <br>
 ****This material is not ready for students****
 
+[Global Markets](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/business-strategy/global-markets)<br>
 
-## Learning Objectives
+[What is a Digital Estate?]
+(https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/digital-estate/index)<br>
 
-## Introduction
+[Digital State Planning Approaches](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/digital-estate/approach)<br>
 
-##
+[Inventory](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/digital-estate/inventory)<br>
 
-## Understanding and Planning
+[Rationalization](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/digital-estate/rationalize)<br>
 
-### General Analysis and Planning References
+[Cost Model Alignment](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/digital-estate/calculate)<br>
 
-{% tabs %}
-{% tab title="Global Markets" %}
-{% embed url="https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/business-strategy/global-markets" %}
-{% endtab %}
-
-{% tab title="What is a Digital Estate?" %}
-{% embed url="https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/digital-estate/index" %}
-{% endtab %}
-
-{% tab title="Digital State Planning Approaches" %}
-{% embed url="https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/digital-estate/approach" %}
-{% endtab %}
-
-{% tab title="Inventory" %}
-{% embed url="https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/digital-estate/inventory" %}
-{% endtab %}
-
-{% tab title="Rationalization" %}
-{% embed url="https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/digital-estate/rationalize" %}
-{% endtab %}
-
-{% tab title="Cost Model Alignment" %}
-{% embed url="https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/digital-estate/calculate" %}
-{% endtab %}
-
-{% tab title="Agile Change Management" %}
-{% embed url="https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/migrate/migration-considerations/prerequisites/technical-complexity" %}
-{% endtab %}
-{% endtabs %}
+[Agile Change Management](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/migrate/migration-considerations/prerequisites/technical-complexity)<br>
 
 ### Cost Models
 
-{% tabs %}
-{% tab title="Creating a Financial Model" %}
-{% embed url="https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/business-strategy/financial-models" %}
-{% endtab %}
+[Creating a Financial Model](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/business-strategy/financial-models)<br>
 
-{% tab title="What is Cloud Accounting?" %}
-{% embed url="https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/business-strategy/cloud-accounting" %}
-{% endtab %}
-{% endtabs %}
+[What is Cloud Accounting?](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/business-strategy/cloud-accounting)<br>
 
 ## Global Market Impact
 
-{% embed url="https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/business-strategy/global-markets" %}
+[Global Market Impact](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/business-strategy/global-markets)<br>

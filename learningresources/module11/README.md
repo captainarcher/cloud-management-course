@@ -22,6 +22,7 @@ In this module you will learn how to prepare your business case to executives.
 
 ## Read, Watch, Listen, Investigate
 ### Required Readings
+[Building a Business Case](https://github.com/captainarcher/cloud-management-course/blob/master/learningresources/module11/building-business-case.md)<br>
 [Using Vault and Terraform with GCP](https://medium.com/@jryancanty/hashicorp-vault-and-terraform-on-google-cloud-security-best-practices-3d94de86a3e9)<br>
 
 ### Lectures and Demos
