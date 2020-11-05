@@ -28,7 +28,7 @@ If you have not setup GitHub yet in Homework 5, then STOP NOW!  You need to comp
 ```
 cd ~/mygit
 ```
-3. Change to your Homework repository (in my example, this is called "Your_Name_Homework"
+3. Change to your Homework repository (in my example, this is called "Your_Name_Homework", but yours will be whatever you named it).
 ```
 cd Your_Name_Homework
 ```
@@ -61,8 +61,8 @@ git commit -a
 ```
 git push
 ```
-10. Verify that your changes pushed to GitHub by visiting your repository in your web browser.
-11. Copy/Paste the following text into your main.tf file.  This will set up your Terraform to use the Google Provider, provision a VPC network for Homework 6 and build multiple VMs.
+10. Verify that your changes pushed to GitHub by visiting your repository in your web browser.  i.e. https://github.com/yourgithubname
+11. Copy/Paste the following text into your main.tf file.  This will set up your Terraform to use the Google Provider, provision a VPC network for Homework 7 and build multiple VMs.
 
 ```
 terraform {
@@ -83,16 +83,16 @@ provider "google" {
 }
 
 resource "google_compute_network" "vpc_network" {
-  name = "homework6-network"
+  name = "homework7-network"
 }
 
 resource "google_compute_address" "vm_static_ip" {
-  name = "homework6-static-ip"
+  name = "homework7-static-ip"
 }
 
 
 resource "google_compute_instance" "vm_instance" {
-  name         = "homework6-instance1"
+  name         = "homework7-instance1"
   machine_type = var.machine_types[var.environment]
   tags         = ["web", "dev"]
 
@@ -114,7 +114,7 @@ resource "google_compute_instance" "vm_instance" {
   }
 }
 "google_compute_instance" "vm_instance" {
-  name         = "homework6-instance2"
+  name         = "homework7-instance2"
   machine_type = var.machine_types[var.environment]
   tags         = ["web", "dev"]
 
@@ -136,7 +136,7 @@ resource "google_compute_instance" "vm_instance" {
   }
 }
 "google_compute_instance" "vm_instance" {
-  name         = "homework6-instance3"
+  name         = "homework7-instance3"
   machine_type = var.machine_types[var.environment]
   tags         = ["db", "dev"]
 
@@ -158,7 +158,7 @@ resource "google_compute_instance" "vm_instance" {
   }
 }
 "google_compute_instance" "vm_instance" {
-  name         = "homework6-instance4"
+  name         = "homework7-instance4"
   machine_type = var.machine_types[var.environment]
   tags         = ["db", "dev"]
 

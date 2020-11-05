@@ -1,15 +1,10 @@
 # Module 11
 Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 <br>
-****This module is not ready for students yet****
 
 ## Overview
-TBD Presentation Skills
-TBD Building a Business Case
+In this module you will learn how to prepare your business case to executives.
 
-
-## Learning Outcomes (SLOs)
-TBD
 ## Resources, Assignments and Due Dates
 <li>Review the Materials under the Read, Watch, Listen, Investigate Activity<br>
 
@@ -19,7 +14,7 @@ TBD
 
 ****Due: 16-November**** <br>
 
-<li>Start on Homework #6](https://github.com/captainarcher/cloud-management-course/blob/master/homework/homework6.md)
+<li>Start on Homework #6 - THIS IS NOT YET READY](https://github.com/captainarcher/cloud-management-course/blob/master/homework/homework6.md)
 <br>
 
 ****Due: 23-November**** <br>
@@ -27,16 +22,9 @@ TBD
 
 ## Read, Watch, Listen, Investigate
 ### Required Readings
-To be posted<br>
-TBD
 [Using Vault and Terraform with GCP](https://medium.com/@jryancanty/hashicorp-vault-and-terraform-on-google-cloud-security-best-practices-3d94de86a3e9)<br>
 
-### Required Videos and Activities
-To be posted<br>
-TBD
 ### Lectures and Demos
 [Professor's YouTube Channel](https://www.youtube.com/channel/UC3vqKF4jspXh8hxFLpTfsyw?view_as=subscriber)<br><br>
 ****Individual Recordings****<br>
-To be posted
-
-## Optional Readings, Videos, Activities, and Tutorials
+[Building a Business Case](https://youtu.be/y8wbNIW5xiI)<br>

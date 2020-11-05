@@ -23,9 +23,10 @@ If you have not gone through the Terraform Tutorial exercise in the Module 6 ins
 
 If you have not setup GitHub yet in Homework 5, then STOP NOW!  You need to complete Homework 5 first.
 
-
-1. Install Vault on your Linux VM if you have no already done this as part of Homework 3.
-2.
+1. Install Vault on a Linux VM if you have not already done this as part of Homework 3.
+2. Enable the Google Cloud Vault Secrets Engine using:<br>
+```vault secrets enable gcp```<br>
+3. 
 
 You will document your progress in a brief report that meets the requirements below:
 <ul>
