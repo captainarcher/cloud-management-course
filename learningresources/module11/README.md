@@ -14,11 +14,7 @@ In this module you will learn how to prepare your business case to executives.
 
 ****Due: 16-November**** <br>
 
-<li>Start on Homework #6 - THIS IS NOT YET READY](https://github.com/captainarcher/cloud-management-course/blob/master/homework/homework6.md)
-<br>
-
-****Due: 23-November**** <br>
-
+<li>Homework 6 is NOT required for Fall 2020.  Skip to Homework 7.<br>
 
 ## Read, Watch, Listen, Investigate
 ### Required Readings
