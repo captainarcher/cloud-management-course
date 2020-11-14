@@ -11,5 +11,4 @@ For the remainder of this course you should work on your project.  You are stron
 ****Due: 23-November**** <br>
 
 <li>Submit Homework #6 <br>
-<li>Start on Homework #7](https://github.com/captainarcher/cloud-management-course/blob/master/homework/homework7.md)
 ****Due: 6-December**** <br>
