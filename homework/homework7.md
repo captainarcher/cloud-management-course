@@ -1,7 +1,7 @@
 # Homework 7: Cloud Automation Part 2
 Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 
-****This assignment is not ready for students - PLEASE CHECK BACK ON or AFTER 11/7****
+****This assignment is not ready for students - PLEASE CHECK BACK ON or AFTER 11/21****
 
 ## Prerequisites
 
@@ -17,7 +17,7 @@ You must be confident in using Git, GitHub, and Terraform.  If NOT, then go back
 Upon the completion of this assignment, you should be able to use Terraform to provision network and compute infrastructure in GCP.  Your GCP credentials will be managed using Vault.
 
 ## Instructions
-You must use GCP for Homework 6 and Homework 7 due to AWS Educate limitations.
+**You must use GCP for Homework 6 and Homework 7 due to AWS Educate limitations.  You will NOT be able to use AWS for this assignment.**
 
 If you have not gone through the Terraform Tutorial exercise in the Module 6 instructions, then STOP NOW!  You need to complete that exercise first.
 
