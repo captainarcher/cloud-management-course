@@ -55,6 +55,8 @@ You need to create the infrastructure for your cloud deployment using Terraform.
 
 Make sure to check your Terraform files into your private GitHub project repository that you created in Homework #5.  Anytime that you edit your Terraform files, push the changes into GitHub.  This will enable you to revert any changes that break Terraform.
 
+You do not need to have an exact replica of your architecture in GCP.  For example, you cannot deploy Marketplace images like WordPress using the free account.  Therefore, you only need to deploy things like VM's, containers, storage, load balancers, and network infrastructure.  Although you may deploy additional free features, you are not required to do so.  Do NOT deploy anything that requires a credit card.
+
 You should use Terraform Plan to test changes before doing a Terraform Apply.
 
 Your deliverables for this portion of the assignment will be:<br>
