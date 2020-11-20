@@ -70,8 +70,6 @@ Upon completion of the automation portion of this assignment use Terraform Show 
 ## Cloud Security Deployment (20% of your project grade - 7 points)
 You will deploy Vault to either GCP or AWS and use it to store and manage credentials.  The basic requirement to get a grade for this portion is to be able to create sample credentials in Vault.
 
-You should include your Vault configuration files in your GitHub private project repository.
-
 You will also write a reflection paper of 500 words that explains how you would implement Vault in a real-world scenario to manage credentials.  You should talk about your own implementation as well.  Your paper needs to have screenshots of the work that you're doing in Vault.
 
 Optionally, you may wish to manage credentials using the tools/plugins below for extra credit:
