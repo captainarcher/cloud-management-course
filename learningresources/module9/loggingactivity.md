@@ -31,12 +31,12 @@ Run: ```sudo apt update```
 Now go back to the start of this step and try again.<br>
 2. Download [Elasticsearch](https://www.elastic.co/products/elasticsearch).
 ```
-curl -L -O https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.9.3-amd64.deb
+curl -L -O https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.10.0-amd64.deb 
 ```
 Note: if you do not have curl installed, use ```sudo apt install curl``` to install it.<br>
 3. Install Elasticsearch
 ```
-sudo dpkg -i elasticsearch-7.9.3-amd64.deb
+sudo dpkg -i elasticsearch-7.10.0-amd64.deb
 ```
 <br>
 Modify elasticsearch.yml file using:
