@@ -3,13 +3,15 @@ Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 
 ****This assignment is not ready for students - PLEASE CHECK BACK ON or AFTER 11/23.  The due date was extended for this assignment.****
 
+This homework is optional for extra credit, but you may need the information provided in this homework to complete your project.  If you choose to submit for extra credit, please use the "Extra Credit HW7" box that is located in Cougar Courses under Module 15.
+
 ## Prerequisites
 
 You must complete all other homework assignments and all modules up through and including Module 8 before starting this assignment.
 
-You must have Terraform installed on your Linux system.  
+You must have Terraform installed on your Linux system.  If you do not, then go back to earlier modules and install Terraform following the instructions for your version of Linux.
 
-You must have Git installed on your Linux system and configured for your GitHub account.
+You must have Git installed on your Linux system and configured for your GitHub account.  If you do not, then go back to earlier modules and install/configure Git.
 
 You must be confident in using Git, GitHub, and Terraform.  If NOT, then go back and practice some more.
 
@@ -53,7 +55,8 @@ Note: to add multiple files simultaneously, you may use ```git add FILE1 FILE2 F
 ```
 set -o vi
 ```
-8. Commit the empty main.tf file to GitHub.  Enter a comment when prompted using your text editor.
+If you wish to use Nano, then you do not need to do this step.
+8. Commit the empty main.tf file to GitHub.  Enter a comment when prompted using your text editor.  Save your edits using the mechanism provided by your text editor (i.e. ```:wq! on vim```)<br>
 ```
 git commit -a
 ```
@@ -180,7 +183,12 @@ resource "google_compute_instance" "vm_instance" {
   }
 }
 ```
-2.
+To do:
+Commit above changes to Git
+Pull changes from your server
+Set up GCP provider credentials_file
+Set up GCP provider vars files
+Terraform commands to apply changes
 
 
 
