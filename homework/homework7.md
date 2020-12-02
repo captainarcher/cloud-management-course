@@ -190,6 +190,8 @@ Set up GCP provider credentials_file
 Set up GCP provider vars files
 Terraform commands to apply changes
 
+Will finish this on Wednesday 12/2
+
 
 
 You will document your progress in a brief report that meets the requirements below:
