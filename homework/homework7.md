@@ -63,7 +63,7 @@ git commit -a
 git push
 ```
 10. Verify that your changes pushed to GitHub by visiting your repository in your web browser.  i.e. https://github.com/yourgithubname
-11. Go through the Terraform GCP tutorial to set up your main.tf and other files.  If Terraform is not installed on your Linux instance, follow the instructions for the appropriate Linux distribution.  DO NOT INSTALL DOCKER, IT IS NOT NEEDED!
+11. Go through the Terraform GCP tutorial to set up your main.tf and other files inside of your git repository.  If Terraform is not installed on your Linux instance, follow the instructions for the appropriate Linux distribution.  DO NOT INSTALL DOCKER, IT IS NOT NEEDED!  This means that you can skip the "Quick start tutorial" portion
 12. Create a GCP Service Account Key
 https://console.cloud.google.com/apis/credentials/serviceaccountkey
 When creating the key, use the following settings:
@@ -90,7 +90,9 @@ git push
 
 Verify that your changes pushed to GitHub by visiting your repository in your web browser. i.e. https://github.com/yourgithubname
 
-
+15. Do a Terraform Plan
+16. Do a Terraform Apply
+17. Verify that the GCP infrastructure was created
 
 You will document your progress in a brief report that meets the requirements below:
 <ul>
