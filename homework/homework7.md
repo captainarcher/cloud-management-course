@@ -90,9 +90,10 @@ git push
 
 Verify that your changes pushed to GitHub by visiting your repository in your web browser. i.e. https://github.com/yourgithubname
 
-15. Do a Terraform Plan
-16. Do a Terraform Apply
-17. Verify that the GCP infrastructure was created
+15. Do a Terraform init
+16. Do a Terraform Plan
+17. Do a Terraform Apply
+18. Verify that the GCP infrastructure was created
 
 You will document your progress in a brief report that meets the requirements below:
 <ul>
