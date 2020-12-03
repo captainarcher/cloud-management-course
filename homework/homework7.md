@@ -1,8 +1,6 @@
 # Homework 7: Cloud Automation Part 2
 Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 
-****This assignment is not ready for students - PLEASE CHECK BACK ON DECEMBER 2nd and review the announcement on Cougar Courses.****
-
 This homework is optional for extra credit, but you may need the information provided in this homework to complete your project.  If you choose to submit for extra credit, please use the "Extra Credit HW7" box that is located in Cougar Courses under Module 15.
 
 ## Prerequisites
