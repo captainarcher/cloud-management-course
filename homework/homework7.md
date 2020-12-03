@@ -65,132 +65,32 @@ git commit -a
 git push
 ```
 10. Verify that your changes pushed to GitHub by visiting your repository in your web browser.  i.e. https://github.com/yourgithubname
-11. Copy/Paste the following text into your main.tf file.  This will set up your Terraform to use the Google Provider, provision a VPC network for Homework 7 and build multiple VMs.
+11. Go through the Terraform GCP tutorial to set up your main.tf and other files.  If Terraform is not installed on your Linux instance, follow the instructions for the appropriate Linux distribution.  DO NOT INSTALL DOCKER, IT IS NOT NEEDED!
+12. Create a GCP Service Account Key
+https://console.cloud.google.com/apis/credentials/serviceaccountkey
+When creating the key, use the following settings:
 
-```
-terraform {
-  required_providers {
-    google = {
-      source = "hashicorp/google"
-    }
-  }
-}
+Select the project that you created for this class.
+Under "Service account", select "New service account".
+Give it any name you like.
+For the Role, choose "Project -> Editor".
+Leave the "Key Type" as JSON.
+Click "Create" to create the key and save the key file to your system.
+You can read more about service account keys in Google's documentation.<br>
+13. Add a rule to exclude the JSON file created in the previous step to a .gitignore file at the root level of your Git repository.  In my example this is ~/mygit/Your_Name_Homework/.gitignore
+and my JSON file was named mis484-6.json
 
-provider "google" {
-  version = "3.5.0"
-  credentials = file(var.credentials_file)
-  project = var.project
-  region = var.region
-  zone = var.zone
+My .gitignore would contain:
+*.json
 
-}
+14. Commit your changes to Git
+Commit all of the files to GitHub. Enter a comment when prompted using your text editor. Save your edits using the mechanism provided by your text editor (i.e. :wq! on vim )
+git commit -a
 
-resource "google_compute_network" "vpc_network" {
-  name = "homework7-network"
-}
+Push your changes to GitHub.
+git push
 
-resource "google_compute_address" "vm_static_ip" {
-  name = "homework7-static-ip"
-}
-
-
-resource "google_compute_instance" "vm_instance" {
-  name         = "homework7-instance1"
-  machine_type = var.machine_types[var.environment]
-  tags         = ["web", "dev"]
-
-  provisioner "local-exec" {
-     command = "echo ${google_compute_instance.vm_instance.name}:  ${google_compute_instance.vm_instance.network_interface[0].access_config[0].nat_ip} >> ip_address.txt"
-  }
-
-  boot_disk {
-    initialize_params {
-      image = "cos-cloud/cos-stable"
-    }
-  }
-
-  network_interface {
-    network = google_compute_network.vpc_network.self_link
-    access_config {
-      nat_ip = google_compute_address.vm_static_ip.address
-    }
-  }
-}
-"google_compute_instance" "vm_instance" {
-  name         = "homework7-instance2"
-  machine_type = var.machine_types[var.environment]
-  tags         = ["web", "dev"]
-
-  provisioner "local-exec" {
-     command = "echo ${google_compute_instance.vm_instance.name}:  ${google_compute_instance.vm_instance.network_interface[0].access_config[0].nat_ip} >> ip_address.txt"
-  }
-
-  boot_disk {
-    initialize_params {
-      image = "cos-cloud/cos-stable"
-    }
-  }
-
-  network_interface {
-    network = google_compute_network.vpc_network.self_link
-    access_config {
-      nat_ip = google_compute_address.vm_static_ip.address
-    }
-  }
-}
-"google_compute_instance" "vm_instance" {
-  name         = "homework7-instance3"
-  machine_type = var.machine_types[var.environment]
-  tags         = ["db", "dev"]
-
-  provisioner "local-exec" {
-     command = "echo ${google_compute_instance.vm_instance.name}:  ${google_compute_instance.vm_instance.network_interface[0].access_config[0].nat_ip} >> ip_address.txt"
-  }
-
-  boot_disk {
-    initialize_params {
-      image = "cos-cloud/cos-stable"
-    }
-  }
-
-  network_interface {
-    network = google_compute_network.vpc_network.self_link
-    access_config {
-      nat_ip = google_compute_address.vm_static_ip.address
-    }
-  }
-}
-"google_compute_instance" "vm_instance" {
-  name         = "homework7-instance4"
-  machine_type = var.machine_types[var.environment]
-  tags         = ["db", "dev"]
-
-  provisioner "local-exec" {
-     command = "echo ${google_compute_instance.vm_instance.name}:  ${google_compute_instance.vm_instance.network_interface[0].access_config[0].nat_ip} >> ip_address.txt"
-  }
-
-  boot_disk {
-    initialize_params {
-      image = "cos-cloud/cos-stable"
-    }
-  }
-
-  network_interface {
-    network = google_compute_network.vpc_network.self_link
-    access_config {
-      nat_ip = google_compute_address.vm_static_ip.address
-    }
-  }
-}
-```
-To do:
-Commit above changes to Git
-Pull changes from your server
-Set up GCP provider credentials_file
-Set up GCP provider vars files
-Terraform commands to apply changes
-
-Will finish this on Wednesday 12/2
+Verify that your changes pushed to GitHub by visiting your repository in your web browser. i.e. https://github.com/yourgithubname
 
 
 
