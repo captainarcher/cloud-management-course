@@ -1,7 +1,7 @@
 # Homework 7: Cloud Automation Part 2
 Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 
-****This assignment is not ready for students - PLEASE CHECK BACK ON or AFTER 11/23.  The due date was extended for this assignment.****
+****This assignment is not ready for students - PLEASE CHECK BACK ON DECEMBER 2nd and review the announcement on Cougar Courses.****
 
 This homework is optional for extra credit, but you may need the information provided in this homework to complete your project.  If you choose to submit for extra credit, please use the "Extra Credit HW7" box that is located in Cougar Courses under Module 15.
 
@@ -56,7 +56,7 @@ Note: to add multiple files simultaneously, you may use ```git add FILE1 FILE2 F
 set -o vi
 ```
 If you wish to use Nano, then you do not need to do this step.
-8. Commit the empty main.tf file to GitHub.  Enter a comment when prompted using your text editor.  Save your edits using the mechanism provided by your text editor (i.e. ```:wq! on vim```)<br>
+8. Commit the empty main.tf file to GitHub.  Enter a comment when prompted using your text editor.  Save your edits using the mechanism provided by your text editor (i.e. ```:wq! on vim``` )<br>
 ```
 git commit -a
 ```
