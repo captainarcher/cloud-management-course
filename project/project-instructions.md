@@ -57,6 +57,8 @@ Make sure to check your Terraform files into your private GitHub project reposit
 
 You do not need to have an exact replica of your architecture in GCP.  For example, you cannot deploy Marketplace images like WordPress using the free account.  Therefore, you only need to deploy things like VM's, containers, storage, load balancers, and network infrastructure.  Although you may deploy additional free features, you are not required to do so.  Do NOT deploy anything that requires a credit card.
 
+The grading for this portion of the assignment is not going to be based on which resources you deploy.  Grading on this assignment will be based on your ability to have a working Terraform configuration that deploys cloud resources.  If I suspect that you used the Graphical Interface to deploy cloud resources rather than Terraform, then I will use your Terraform configuration in my own environment to confirm that it actually works.
+
 You should use Terraform Plan to test changes before doing a Terraform Apply.
 
 Your deliverables for this portion of the assignment will be:<br>
@@ -68,7 +70,7 @@ Your deliverables for this portion of the assignment will be:<br>
 Upon completion of the automation portion of this assignment use Terraform Show and the Cloud Console to capture a picture of what your cloud infrastructure looks like.  Write a brief narrative (500 words) that describes all of your infrastructure, along with your reasoning for choosing that infrastructure, and be sure to either include the output of terraform show and screenshots from your cloud console.<br>
 
 ## Cloud Security Deployment (20% of your project grade - 7 points)
-You will deploy Vault to either GCP or AWS and use it to store and manage credentials.  The basic requirement to get a grade for this portion is to be able to create sample credentials in Vault.
+You will deploy Vault to either GCP or AWS and use it to store and manage credentials.  The basic requirement to get a grade for this portion is to be able to install Vault, start a Vault dev server, and create sample credentials in Vault.  You do NOT need to do anything else with Vault beyond a dev server and store sample credentials.
 
 You will also write a reflection paper of 500 words that explains how you would implement Vault in a real-world scenario to manage credentials.  You should talk about your own implementation as well.  Your paper needs to have screenshots of the work that you're doing in Vault.
 
