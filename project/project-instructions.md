@@ -55,7 +55,7 @@ You need to create the infrastructure for your cloud deployment using Terraform.
 
 Make sure to check your Terraform files into your private GitHub project repository that you created in Homework #5.  Anytime that you edit your Terraform files, push the changes into GitHub.  This will enable you to revert any changes that break Terraform.
 
-You do not need to have an exact replica of your architecture in GCP.  For example, you cannot deploy Marketplace images like WordPress using the free account.  Therefore, you only need to deploy things like VM's, containers, storage, load balancers, and network infrastructure.  Although you may deploy additional free features, you are not required to do so.  Do NOT deploy anything that requires a credit card.
+You do not need to have an exact replica of your architecture in GCP.  For example, you cannot deploy Marketplace images like WordPress using the free account.  Therefore, you only need to deploy for example VM's, containers, storage, load balancers, and network infrastructure.  Although you may deploy additional free features, you are not required to do so.  At a minimum, you need compute instances and a network (VPC).  Do NOT deploy anything that requires a credit card.
 
 The grading for this portion of the assignment is not going to be based on which resources you deploy.  Grading on this assignment will be based on your ability to have a working Terraform configuration that deploys cloud resources.  If I suspect that you used the Graphical Interface to deploy cloud resources rather than Terraform, then I will use your Terraform configuration in my own environment to confirm that it actually works.  
 
