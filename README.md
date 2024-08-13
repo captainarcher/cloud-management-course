@@ -1,7 +1,7 @@
 # Cloud Management Course materials
 Copyright (C) 2020 Thomas Underhill.  All Rights Reserved.
 <br>
-* This course is outdated and no longer updated. *
+** This course is outdated and no longer updated. **   
 ## Course Description
 Introduces concepts of cloud computing to students. Provides a survey of various cloud service delivery models that students may encounter in their careers.  Exposes students to specific cloud technologies using hands-on activities and culminates in presenting a cloud adoption/migration business case to executives.
 
